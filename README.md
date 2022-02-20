@@ -22,6 +22,10 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/
 
 ### Alan Kay
 
+The Real Computer Revolution Hasn’t Happened Yet
+https://www.youtube.com/watch?v=MC0_TDrmllM&t=609s
+http://worrydream.com/refs/Kay%20-%20The%20Real%20Computer%20Revolution%20Hasn%e2%80%99t%20Happened%20Yet.pdf
+
 Normal Considered Harmful
 https://www.youtube.com/watch?v=FvmTSpJU-Xc&t=2197s
 
