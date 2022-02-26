@@ -1,5 +1,13 @@
 # My-awesome-list
 
+## Courses
+
+MIT 6.031: Software Construction https://web.mit.edu/6.031/www/sp21/
+
+MIT 6.822: Formal Reasoning About Programs https://frap.csail.mit.edu/main
+
+Utah CS4400: Computer Systems https://my.eng.utah.edu/~cs4400/
+
 ## Books
 
 ## Papers
