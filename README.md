@@ -12,6 +12,10 @@ Utah CS4400: Computer Systems https://my.eng.utah.edu/~cs4400/
 
 ## Papers
 
+Hints and principles for computer system and design by Butler Lampson (Keep it simple, use abstractions with clean interfaces and write a spec)
+https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Hints-and-Principles-v1-full.pdf
+https://www.youtube.com/watch?v=xrR0E7MImAE
+
 ## Blogs
 
 Gernot's Tips and Guidance for Students Writing Papers and Reports
