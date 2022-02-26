@@ -37,3 +37,9 @@ https://www.youtube.com/watch?v=R1R2jH4PQEo&t=3664s
 
 Powerful Ideas Need Love Too
 http://worrydream.com/refs/Kay%20-%20Powerful%20Ideas%20Need%20Love%20Too.html
+
+## Misc
+
+Phd Comics https://phdcomics.com/comics/most_popular.php
+
+A webcomic of romance, sarcasm, math, and language. https://xkcd.com/archive/
