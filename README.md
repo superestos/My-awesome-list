@@ -2,11 +2,29 @@
 
 ## Courses
 
-MIT 6.031: Software Construction https://web.mit.edu/6.031/www/sp21/
+### Software Engineering
 
-MIT 6.822: Formal Reasoning About Programs https://frap.csail.mit.edu/main
+MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 
-Utah CS4400: Computer Systems https://my.eng.utah.edu/~cs4400/
+### Computer Systems
+
+Utah CS4400 Computer Systems https://my.eng.utah.edu/~cs4400/
+
+Stanford CS 253 Web Security https://web.stanford.edu/class/cs253/
+
+### Programming Languages
+
+MIT 6.822 Formal Reasoning About Programs https://frap.csail.mit.edu/main
+
+CMU 15-414 Bug Catching: Automated Program Verification 
+http://www.cs.cmu.edu/~15414/s22/schedule.html
+
+UW CSE490P Advanced Programming Languages and Verification
+https://sites.google.com/cs.washington.edu/cse490p/home
+
+### Math
+
+15-317 Constructive Logic https://www.cs.cmu.edu/~fp/courses/15317-f17/schedule.html
 
 ## Books
 
