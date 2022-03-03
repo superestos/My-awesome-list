@@ -4,11 +4,23 @@
 
 ### Math, Algorithm & Theory
 
+MIT 18.404J Theory of Computation https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/
+
+Virginia CS3102 Theory of Computation https://uvatoc.github.io/schedule/
+
 CMU 15-317 Constructive Logic https://www.cs.cmu.edu/~fp/courses/15317-f17/schedule.html
+
+CMU 15-455 Undergraduate Complexity Theory http://www.cs.cmu.edu/~15455/table.html
 
 Berkeley CS170 Efficient Algorithms and Intractable Problems https://cs170.org/
 
+Stanford CS265 Randomized Algorithms and Probabilistic Analysis https://web.stanford.edu/class/cs265/
+
+MIT 6.851 Advanced Data Structure https://courses.csail.mit.edu/6.851/spring21/
+
 MIT 6.886 Algorithm Engineering https://people.csail.mit.edu/jshun/6886-s21/
+
+CMU 10-810 Advanced Optimization and Randomized Methods http://www.cs.cmu.edu/~suvrit/teach/aopt.html
 
 ### Computer Systems
 
@@ -26,6 +38,8 @@ Stanford CS245 Principles of Data-Intensive Systems http://web.stanford.edu/clas
 
 Upenn CIS553 Networked Systems https://www.seas.upenn.edu/~cis553/
 
+Princeton COS461 Computer Networks https://www.cs.princeton.edu/courses/archive/fall21/cos461/schedule.html
+
 Stanford CS144 Introduction to Computer Networking https://cs144.github.io/
 
 Stanford CS253 Web Security https://web.stanford.edu/class/cs253/
@@ -33,6 +47,8 @@ Stanford CS253 Web Security https://web.stanford.edu/class/cs253/
 Stanford CS240 Advanced Topics in Operating Systems http://web.stanford.edu/class/cs240/
 
 Berkeley CS262B Advanced Topics in Computer Systems https://deculler.github.io/cs262b-sp20
+
+Princeton COS518 Advanced Computer Systems https://cos518.github.io/syllabus.html
 
 JHU CS718 Advanced Operating Systems https://www.cs.jhu.edu/~huang/cs718/spring20/syllabus.html
 
@@ -44,19 +60,21 @@ Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjg
 
 ### Programming Languages
 
+Washington CSE341 Programming Languages https://sites.google.com/cs.washington.edu/cse341spring2021/lecture
+
+Princeton COS326 Functional Programming https://www.cs.princeton.edu/courses/archive/fall21/cos326/schedule.php
+
 MIT 6.822 Formal Reasoning About Programs https://frap.csail.mit.edu/main
 
 Stanford CS243 Program Analysis and Optimization https://suif.stanford.edu/~courses/cs243/
 
-CMU 15-414 Bug Catching: Automated Program Verification 
-http://www.cs.cmu.edu/~15414/s22/schedule.html
+CMU 15-414 Bug Catching: Automated Program Verification http://www.cs.cmu.edu/~15414/s22/schedule.html
 
-UW CSE490P Advanced Programming Languages and Verification
-https://sites.google.com/cs.washington.edu/cse490p/home
+Wahsington CSE490P Advanced Programming Languages and Verification https://sites.google.com/cs.washington.edu/cse490p/home
 
 ### Computer Architecture & Parallel Computing
 
-MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/index.htm
+MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018
 
 Berkeley CS152 Computer Architecture and Engineering https://inst.eecs.berkeley.edu/~cs152/sp21/
 
@@ -72,6 +90,8 @@ Gatech CS6290 High Performance Computer Architecture https://omscs.gatech.edu/cs
 
 MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 
+UCLA CS130 Software Engineering https://www.cs130.org/lectures/
+
 Stanford CS142: Web Applications https://web.stanford.edu/class/cs142/lectures.html
 
 Cornell CS4414 Systems Programming https://www.cs.cornell.edu/courses/cs4414
@@ -80,13 +100,21 @@ Stanford CS197 Computer Science Research https://web.stanford.edu/class/cs197/
 
 JHU CS624 Reliable Software Systems https://www.cs.jhu.edu/~huang/cs624/spring22/syllabus.html
 
+Brown CSCI2952-F Distributed Systems at Scale: Microservices Management http://cs.brown.edu/courses/csci2952-f/lectures.html
+
 ### AI, Graphics & Applications
 
 CMU 15-462 Computer Graphics http://15462.courses.cs.cmu.edu/fall2021/
 
-UW CSE442 Data Visualization https://courses.cs.washington.edu/courses/cse442/22wi/
+Princeton COS426 Computer Graphics https://www.cs.princeton.edu/courses/archive/spring21/cos426/
+
+Washington CSE442 Data Visualization https://courses.cs.washington.edu/courses/cse442/22wi/
 
 ## Books
+
+Introduction to Theoretical Computer Science https://introtcs.org/public/index.html
+
+The Joy of Cryptography https://joyofcryptography.com/
 
 ## Papers
 
@@ -107,6 +135,9 @@ https://xxchan.github.io/cs/2022/02/09/paxos-hard-zh.html
 
 Patterns of Distributed Systems
 https://martinfowler.com/articles/patterns-of-distributed-systems/
+
+Distributed systems theory for the distributed systems engineer
+https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/
 
 ## Talks
 
