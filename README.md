@@ -12,6 +12,12 @@ Utah CS4400 Computer Systems https://my.eng.utah.edu/~cs4400/
 
 Stanford CS 253 Web Security https://web.stanford.edu/class/cs253/
 
+Stanford CS349D: Cloud Computing Technology http://web.stanford.edu/class/cs349d/
+
+Upenn CIS553: Networked Systems https://www.seas.upenn.edu/~cis553/
+
+
+
 ### Programming Languages
 
 MIT 6.822 Formal Reasoning About Programs https://frap.csail.mit.edu/main
