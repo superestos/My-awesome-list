@@ -68,6 +68,8 @@ MIT 6.858 Computer Systems Security https://css.csail.mit.edu/6.858
 
 UMich EECS388 Introduction to Computer Security https://eecs388.org/assignments.html
 
+Stanford CS251 Blockchain Technologies https://cs251.stanford.edu/syllabus.html
+
 Stanford CS240 Advanced Topics in Operating Systems http://web.stanford.edu/class/cs240/
 
 Berkeley CS262B Advanced Topics in Computer Systems https://deculler.github.io/cs262b-sp20
@@ -86,6 +88,8 @@ UWisc CS839 Design the Next-Generation Database https://pages.cs.wisc.edu/~yxy/c
 
 CMU 15-319 Cloud Computing http://www.cs.cmu.edu/~msakr/15619-s20/recitations.html
 
+CMU 15-440 Distributed Systems https://www.synergylabs.org/courses/15-440/syllabus.html
+
 Cornell CS5412 Topics in Cloud Computing https://www.cs.cornell.edu/courses/cs5412/2022sp/Syllabus.html
 
 Stanford CS349D: Cloud Computing Technology http://web.stanford.edu/class/cs349d/
@@ -94,9 +98,13 @@ Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjg
 
 ### Programming Languages
 
+Cornell CS3110 Data Structures and Functional Programming https://cs3110.github.io/textbook/cover.html
+
 Washington CSE341 Programming Languages https://sites.google.com/cs.washington.edu/cse341spring2021/lecture
 
 Princeton COS326 Functional Programming https://www.cs.princeton.edu/courses/archive/fall21/cos326/schedule.php
+
+MIT 6.820 Fundamentals of Program Analysis https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015/
 
 MIT 6.822 Formal Reasoning About Programs https://frap.csail.mit.edu/main
 
@@ -115,6 +123,10 @@ Berkeley CS152 Computer Architecture and Engineering https://inst.eecs.berkeley.
 Berkeley CS194-15 Introduction to Parallel Programming https://sites.google.com/berkeley.edu/cs194-15-fall-2021
 
 Berkeley CS267 Applications of Parallel Computers https://sites.google.com/lbl.gov/cs267-spr2021
+
+Brown CS1760 Multiprocessor Synchronization http://cs.brown.edu/courses/cs176/lectures.shtml
+
+Waterloo CS798-043 Multicore programming http://tbrown.pro/cs798
 
 MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018
 
