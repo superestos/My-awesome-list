@@ -44,6 +44,12 @@ Stanford CS144 Introduction to Computer Networking https://cs144.github.io/
 
 Stanford CS253 Web Security https://web.stanford.edu/class/cs253/
 
+Stanford CS155 Computer and Network Security https://cs155.stanford.edu/syllabus.html
+
+Berekeley CS161 Computer Security https://cs161.org/
+
+MIT 6.858 Computer Systems Security https://css.csail.mit.edu/6.858
+
 Stanford CS240 Advanced Topics in Operating Systems http://web.stanford.edu/class/cs240/
 
 Berkeley CS262B Advanced Topics in Computer Systems https://deculler.github.io/cs262b-sp20
@@ -78,9 +84,13 @@ MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/course
 
 Berkeley CS152 Computer Architecture and Engineering https://inst.eecs.berkeley.edu/~cs152/sp21/
 
+MIT 6.823 Computer System Architecture http://csg.csail.mit.edu/6.823/lecnotes.html
+
 Berkeley CS194-15 Introduction to Parallel Programming https://sites.google.com/berkeley.edu/cs194-15-fall-2021
 
 Berkeley CS267 Applications of Parallel Computers https://sites.google.com/lbl.gov/cs267-spr2021
+
+Washington CSE599I Accelerated Computing Programming GPUs https://tschmidt23.github.io/cse599i/
 
 Rochester CSC258 Parallel and Distributed Systems https://www.cs.rochester.edu/u/sree/courses/csc-258/spring-2018/schedule.html
 
@@ -126,6 +136,9 @@ https://www.youtube.com/watch?v=xrR0E7MImAE
 
 Gernot's Tips and Guidance for Students Writing Papers and Reports
 https://gernot-heiser.org/style-guide.html
+
+Crafting Interpreters
+https://craftinginterpreters.com/contents.html
 
 The Law of Leaky Abstraction
 https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
