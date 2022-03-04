@@ -12,9 +12,15 @@ CMU 15-317 Constructive Logic https://www.cs.cmu.edu/~fp/courses/15317-f17/sched
 
 CMU 15-455 Undergraduate Complexity Theory http://www.cs.cmu.edu/~15455/table.html
 
+Stanford CS166 Data Structures http://web.stanford.edu/class/cs166/
+
 Berkeley CS170 Efficient Algorithms and Intractable Problems https://cs170.org/
 
 Stanford CS265 Randomized Algorithms and Probabilistic Analysis https://web.stanford.edu/class/cs265/
+
+Stanford CS276 Information Retrieval and Web Search https://web.stanford.edu/class/cs276/
+
+UCSD CSE100 Advanced Data Structures  https://ucsd-cse100-s20.github.io/
 
 MIT 6.851 Advanced Data Structure https://courses.csail.mit.edu/6.851/spring21/
 
@@ -40,6 +46,10 @@ CMU 15-445 Intro to Database Systems https://15445.courses.cs.cmu.edu/
 
 Stanford CS245 Principles of Data-Intensive Systems http://web.stanford.edu/class/cs245/
 
+Harvard CS165 Data Systems http://daslab.seas.harvard.edu/classes/cs165/
+
+Harvard CS265 Big Data Systems http://daslab.seas.harvard.edu/classes/cs265/
+
 Upenn CIS553 Networked Systems https://www.seas.upenn.edu/~cis553/
 
 Princeton COS461 Computer Networks https://www.cs.princeton.edu/courses/archive/fall21/cos461/schedule.html
@@ -52,7 +62,11 @@ Stanford CS155 Computer and Network Security https://cs155.stanford.edu/syllabus
 
 Berekeley CS161 Computer Security https://cs161.org/
 
+MIT 6.S060 Foundations of Computer Security https://6s060.csail.mit.edu/2021/
+
 MIT 6.858 Computer Systems Security https://css.csail.mit.edu/6.858
+
+UMich EECS388 Introduction to Computer Security https://eecs388.org/assignments.html
 
 Stanford CS240 Advanced Topics in Operating Systems http://web.stanford.edu/class/cs240/
 
@@ -94,15 +108,19 @@ Wahsington CSE490P Advanced Programming Languages and Verification https://sites
 
 ### Computer Architecture & Parallel Computing
 
-MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018
+MIT 6.823 Computer System Architecture http://csg.csail.mit.edu/6.823/lecnotes.html
 
 Berkeley CS152 Computer Architecture and Engineering https://inst.eecs.berkeley.edu/~cs152/sp21/
-
-MIT 6.823 Computer System Architecture http://csg.csail.mit.edu/6.823/lecnotes.html
 
 Berkeley CS194-15 Introduction to Parallel Programming https://sites.google.com/berkeley.edu/cs194-15-fall-2021
 
 Berkeley CS267 Applications of Parallel Computers https://sites.google.com/lbl.gov/cs267-spr2021
+
+MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018
+
+Stanford CS149 Parallel Computing https://gfxcourses.stanford.edu/cs149/fall21
+
+UCSD CSE 240B Parallel Data Architecture https://sites.google.com/eng.ucsd.edu/cse240bspring2018/lectures
 
 Washington CSE599I Accelerated Computing Programming GPUs https://tschmidt23.github.io/cse599i/
 
