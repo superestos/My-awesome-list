@@ -14,6 +14,12 @@ CMU 15-455 Undergraduate Complexity Theory http://www.cs.cmu.edu/~15455/table.ht
 
 Stanford CS166 Data Structures http://web.stanford.edu/class/cs166/
 
+Stanford CS161 Design and Analysis of Algorithms https://stanford-cs161.github.io/winter2022/lectures/
+
+Princeton Algorithm Design Textbook Slides https://www.cs.princeton.edu/~wayne/kleinberg-tardos/
+
+CMU 15-451 Algorithms https://www.cs.cmu.edu/~15451-f21/schedule.html
+
 Berkeley CS170 Efficient Algorithms and Intractable Problems https://cs170.org/
 
 Stanford CS265 Randomized Algorithms and Probabilistic Analysis https://web.stanford.edu/class/cs265/
@@ -22,13 +28,31 @@ Stanford CS276 Information Retrieval and Web Search https://web.stanford.edu/cla
 
 UCSD CSE100 Advanced Data Structures  https://ucsd-cse100-s20.github.io/
 
+UCSD CSE202 Combinatorial Algorithms https://users.soe.ucsc.edu/~sesh/Teaching/2021/CSE202/schedule.html
+
 MIT 6.851 Advanced Data Structure https://courses.csail.mit.edu/6.851/spring21/
 
+MIT 6.852J Distributed Algorithms https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-852j-distributed-algorithms-fall-2009
+
 MIT 6.886 Algorithm Engineering https://people.csail.mit.edu/jshun/6886-s21/
+
+MIT 6.854 Advanced Algorithms http://courses.csail.mit.edu/6.854/21/
+
+MIT 6.856J Randomized Algorithms https://courses.csail.mit.edu/6.856/current/
 
 UWisc CS524 Introduction to Optimization https://laurentlessard.com/teaching/524-intro-to-optimization/
 
 CMU 10-810 Advanced Optimization and Randomized Methods http://www.cs.cmu.edu/~suvrit/teach/aopt.html
+
+Princeton COS521 Advanced Algorithm Design https://www.cs.princeton.edu/~singla/COS521.html
+
+Columbia Algorithms for Massive Data COMS 6998-9 http://www.cs.columbia.edu/~andoni/algoS19/materials.html
+
+COlumbia Advanced Algorithms COMS 4995-2 https://www.cs.columbia.edu/~andoni/advancedS20/materials.html
+
+Brown CSCI1440 Algorithmic Game Theory http://cs.brown.edu/courses/csci1440/lectures/
+
+Stanford CS364A Algorithmic Game Theory http://timroughgarden.org/f13/f13.html
 
 ### Computer Systems
 
