@@ -20,6 +20,8 @@ MIT 6.851 Advanced Data Structure https://courses.csail.mit.edu/6.851/spring21/
 
 MIT 6.886 Algorithm Engineering https://people.csail.mit.edu/jshun/6886-s21/
 
+UWisc CS524 Introduction to Optimization https://laurentlessard.com/teaching/524-intro-to-optimization/
+
 CMU 10-810 Advanced Optimization and Randomized Methods http://www.cs.cmu.edu/~suvrit/teach/aopt.html
 
 ### Computer Systems
@@ -29,6 +31,8 @@ MIT 6.033 Computer System Engineering http://web.mit.edu/6.033/www/
 Utah CS4400 Computer Systems https://my.eng.utah.edu/~cs4400/
 
 JHU CS318 Principles of Operating Systems https://www.cs.jhu.edu/~huang/cs318/fall21/schedule.html
+
+Stanford CS111 Operating Systems Principles https://web.stanford.edu/~ouster/cs111-spring21/
 
 Berkeley CS186 Introduction to Database Systems https://cs186berkeley.net/
 
@@ -59,6 +63,16 @@ Princeton COS518 Advanced Computer Systems https://cos518.github.io/syllabus.htm
 JHU CS718 Advanced Operating Systems https://www.cs.jhu.edu/~huang/cs718/spring20/syllabus.html
 
 CMU 15-721 Advanced Database Systems https://15721.courses.cs.cmu.edu/spring2020/schedule.html
+
+UWisc CS744 Big Data Systems https://pages.cs.wisc.edu/~shivaram/cs744-fa21/
+
+UWisc CS764 Topics in Database Management Systems https://pages.cs.wisc.edu/~yxy/cs764-f20/
+
+UWisc CS839 Design the Next-Generation Database https://pages.cs.wisc.edu/~yxy/cs839-s20/index.html
+
+CMU 15-319 Cloud Computing http://www.cs.cmu.edu/~msakr/15619-s20/recitations.html
+
+Cornell CS5412 Topics in Cloud Computing https://www.cs.cornell.edu/courses/cs5412/2022sp/Syllabus.html
 
 Stanford CS349D: Cloud Computing Technology http://web.stanford.edu/class/cs349d/
 
