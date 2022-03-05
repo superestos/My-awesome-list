@@ -60,6 +60,12 @@ MIT 6.033 Computer System Engineering http://web.mit.edu/6.033/www/
 
 Utah CS4400 Computer Systems https://my.eng.utah.edu/~cs4400/
 
+Cornell CS4414 Systems Programming https://www.cs.cornell.edu/courses/cs4414
+
+UIUC CS241 System Programming https://cs241.cs.illinois.edu/coursebook/
+
+UIUC CS423 Operating System Design https://courses.grainger.illinois.edu/cs423/sp2021/schedule/
+
 JHU CS318 Principles of Operating Systems https://www.cs.jhu.edu/~huang/cs318/fall21/schedule.html
 
 Stanford CS111 Operating Systems Principles https://web.stanford.edu/~ouster/cs111-spring21/
@@ -73,6 +79,8 @@ Stanford CS245 Principles of Data-Intensive Systems http://web.stanford.edu/clas
 Harvard CS165 Data Systems http://daslab.seas.harvard.edu/classes/cs165/
 
 Harvard CS265 Big Data Systems http://daslab.seas.harvard.edu/classes/cs265/
+
+Berkeley CS168 Introduction to the Internet: Architecture and Protocols http://cs168.io/
 
 Upenn CIS553 Networked Systems https://www.seas.upenn.edu/~cis553/
 
@@ -132,6 +140,8 @@ MIT 6.820 Fundamentals of Program Analysis https://ocw.mit.edu/courses/electrica
 
 MIT 6.822 Formal Reasoning About Programs https://frap.csail.mit.edu/main
 
+MIT 6.826 Principles of Computer Systems https://6826.csail.mit.edu/2020/
+
 Stanford CS243 Program Analysis and Optimization https://suif.stanford.edu/~courses/cs243/
 
 CMU 15-414 Bug Catching: Automated Program Verification http://www.cs.cmu.edu/~15414/s22/schedule.html
@@ -171,8 +181,6 @@ MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 UCLA CS130 Software Engineering https://www.cs130.org/lectures/
 
 Stanford CS142: Web Applications https://web.stanford.edu/class/cs142/lectures.html
-
-Cornell CS4414 Systems Programming https://www.cs.cornell.edu/courses/cs4414
 
 Stanford CS197 Computer Science Research https://web.stanford.edu/class/cs197/
 
