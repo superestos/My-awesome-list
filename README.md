@@ -213,6 +213,9 @@ https://www.youtube.com/watch?v=xrR0E7MImAE
 Gernot's Tips and Guidance for Students Writing Papers and Reports
 https://gernot-heiser.org/style-guide.html
 
+Logic Matters
+https://www.logicmatters.net/
+
 Crafting Interpreters
 https://craftinginterpreters.com/contents.html
 
