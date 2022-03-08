@@ -62,6 +62,8 @@ Utah CS4400 Computer Systems https://my.eng.utah.edu/~cs4400/
 
 Cornell CS4414 Systems Programming https://www.cs.cornell.edu/courses/cs4414
 
+Brown CSCI1310 Fundamentals of Computer Systems http://cs.brown.edu/courses/csci1310/2020/schedule.html
+
 UIUC CS241 System Programming https://cs241.cs.illinois.edu/coursebook/
 
 UIUC CS423 Operating System Design https://courses.grainger.illinois.edu/cs423/sp2021/schedule/
@@ -130,11 +132,17 @@ Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjg
 
 ### Programming Languages
 
-Cornell CS3110 Data Structures and Functional Programming https://cs3110.github.io/textbook/cover.html
-
 Washington CSE341 Programming Languages https://sites.google.com/cs.washington.edu/cse341spring2021/lecture
 
 Princeton COS326 Functional Programming https://www.cs.princeton.edu/courses/archive/fall21/cos326/schedule.php
+
+Cornell CS3110 Data Structures and Functional Programming https://cs3110.github.io/textbook/cover.html
+
+Cornell CS6110 Advanced Programming Languages https://www.cs.cornell.edu/courses/cs6110/2022sp/schedule.html
+
+Cornell CS6120 Advanced Compilers https://www.cs.cornell.edu/courses/cs6120/2022sp/schedule/
+
+CMU 17-355 Program Analysis https://cmu-program-analysis.github.io/2021/index.html
 
 MIT 6.820 Fundamentals of Program Analysis https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015/
 
@@ -142,11 +150,15 @@ MIT 6.822 Formal Reasoning About Programs https://frap.csail.mit.edu/main
 
 MIT 6.826 Principles of Computer Systems https://6826.csail.mit.edu/2020/
 
+Stanford CS343D Domain-Specific Programming Models and Compilers https://cs343d.github.io/
+
 Stanford CS243 Program Analysis and Optimization https://suif.stanford.edu/~courses/cs243/
 
 CMU 15-414 Bug Catching: Automated Program Verification http://www.cs.cmu.edu/~15414/s22/schedule.html
 
-Wahsington CSE490P Advanced Programming Languages and Verification https://sites.google.com/cs.washington.edu/cse490p/home
+Washington CSE490P Advanced Programming Languages and Verification https://sites.google.com/cs.washington.edu/cse490p/home
+
+Washington CSE505 Concepts of Programming Languages https://sites.google.com/cs.washington.edu/cse-505-spring-2021/lecture
 
 ### Computer Architecture & Parallel Computing
 
@@ -161,6 +173,8 @@ Berkeley CS267 Applications of Parallel Computers https://sites.google.com/lbl.g
 Brown CS1760 Multiprocessor Synchronization http://cs.brown.edu/courses/cs176/lectures.shtml
 
 Waterloo CS798-043 Multicore programming http://tbrown.pro/cs798
+
+Rice COMP522 Multicore Computing https://www.cs.rice.edu/~johnmc/comp522/lecture-notes/index.html
 
 MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018
 
