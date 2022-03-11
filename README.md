@@ -130,6 +130,8 @@ Stanford CS349D: Cloud Computing Technology http://web.stanford.edu/class/cs349d
 
 Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
 
+CMU 15-884 Machine Learning Systems https://catalyst.cs.cmu.edu/15-884-mlsys-sp21/schedule
+
 ### Programming Languages
 
 Washington CSE341 Programming Languages https://sites.google.com/cs.washington.edu/cse341spring2021/lecture
@@ -142,7 +144,12 @@ Cornell CS6110 Advanced Programming Languages https://www.cs.cornell.edu/courses
 
 Cornell CS6120 Advanced Compilers https://www.cs.cornell.edu/courses/cs6120/2022sp/schedule/
 
-CMU 17-355 Program Analysis https://cmu-program-analysis.github.io/2021/index.html
+UMich EECS390 Programming Paradigms https://eecs390.org/
+
+UMich EECS590 Advanced Programming Languages https://web.eecs.umich.edu/~weimerw/590/lectures.html
+
+CMU 17-355 Program Analysis http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/ 
+https://cmu-program-analysis.github.io/2021/index.html
 
 MIT 6.820 Fundamentals of Program Analysis https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015/
 
