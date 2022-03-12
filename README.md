@@ -8,6 +8,8 @@ MIT 18.404J Theory of Computation https://ocw.mit.edu/courses/mathematics/18-404
 
 Virginia CS3102 Theory of Computation https://uvatoc.github.io/schedule/
 
+UMich EECS376 Foundations of Computer Science https://eecs376.org/
+
 CMU 15-317 Constructive Logic https://www.cs.cmu.edu/~fp/courses/15317-f17/schedule.html
 
 CMU 15-455 Undergraduate Complexity Theory http://www.cs.cmu.edu/~15455/table.html
@@ -88,6 +90,8 @@ Upenn CIS553 Networked Systems https://www.seas.upenn.edu/~cis553/
 
 Princeton COS461 Computer Networks https://www.cs.princeton.edu/courses/archive/fall21/cos461/schedule.html
 
+UMich EECS489 Computer Networks https://github.com/mosharaf/eecs489
+
 Stanford CS144 Introduction to Computer Networking https://cs144.github.io/
 
 Stanford CS253 Web Security https://web.stanford.edu/class/cs253/
@@ -146,6 +150,8 @@ Cornell CS6120 Advanced Compilers https://www.cs.cornell.edu/courses/cs6120/2022
 
 UMich EECS390 Programming Paradigms https://eecs390.org/
 
+UMich EECS483 Compiler Construction https://dijkstra.eecs.umich.edu/eecs483/lectures.php
+
 UMich EECS590 Advanced Programming Languages https://web.eecs.umich.edu/~weimerw/590/lectures.html
 
 CMU 17-355 Program Analysis http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/ 
@@ -200,6 +206,11 @@ Gatech CS6290 High Performance Computer Architecture https://omscs.gatech.edu/cs
 MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 
 UCLA CS130 Software Engineering https://www.cs130.org/lectures/
+
+UMich EECS481 Software Engineering https://dijkstra.eecs.umich.edu/kleach/eecs481/w21/lectures.php
+
+UMich EECS485 Web Systems https://eecs485staff.github.io/eecs485.org/ 
+https://dijkstra.eecs.umich.edu/kleach/eecs485/su20/
 
 Stanford CS142: Web Applications https://web.stanford.edu/class/cs142/lectures.html
 
