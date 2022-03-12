@@ -136,6 +136,8 @@ Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjg
 
 CMU 15-884 Machine Learning Systems https://catalyst.cs.cmu.edu/15-884-mlsys-sp21/schedule
 
+UCSD CSE291 Virtualization https://cseweb.ucsd.edu/~yiying/cse291-winter22/reading/
+
 ### Programming Languages
 
 Washington CSE341 Programming Languages https://sites.google.com/cs.washington.edu/cse341spring2021/lecture
