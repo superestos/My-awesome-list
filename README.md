@@ -193,6 +193,8 @@ MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/course
 
 Stanford CS149 Parallel Computing https://gfxcourses.stanford.edu/cs149/fall21
 
+UMich EECS570 Parallel Computer Architecture https://www.eecs.umich.edu/courses/eecs570/
+
 UCSD CSE 240B Parallel Data Architecture https://sites.google.com/eng.ucsd.edu/cse240bspring2018/lectures
 
 Washington CSE599I Accelerated Computing Programming GPUs https://tschmidt23.github.io/cse599i/
