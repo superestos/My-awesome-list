@@ -152,6 +152,8 @@ Cornell CS6110 Advanced Programming Languages https://www.cs.cornell.edu/courses
 
 Cornell CS6120 Advanced Compilers https://www.cs.cornell.edu/courses/cs6120/2022sp/schedule/
 
+UPenn CIS341 Compilers https://www.seas.upenn.edu/~cis341/current/index.html
+
 UMich EECS390 Programming Paradigms https://eecs390.org/
 
 UMich EECS483 Compiler Construction https://dijkstra.eecs.umich.edu/eecs483/lectures.php
