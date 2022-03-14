@@ -146,6 +146,8 @@ Princeton COS326 Functional Programming https://www.cs.princeton.edu/courses/arc
 
 Cornell CS3110 Data Structures and Functional Programming https://cs3110.github.io/textbook/cover.html
 
+Cornell CS4110 Programming Languages and Logics https://www.cs.cornell.edu/courses/cs4110/2021fa/schedule.html
+
 Cornell CS6110 Advanced Programming Languages https://www.cs.cornell.edu/courses/cs6110/2022sp/schedule.html
 
 Cornell CS6120 Advanced Compilers https://www.cs.cornell.edu/courses/cs6120/2022sp/schedule/
@@ -165,6 +167,8 @@ MIT 6.822 Formal Reasoning About Programs https://frap.csail.mit.edu/main
 
 MIT 6.826 Principles of Computer Systems https://6826.csail.mit.edu/2020/
 
+Cornell CS6114 Network Programming Languages https://cornell-pl.github.io/cs6114/schedule/
+
 Stanford CS343D Domain-Specific Programming Models and Compilers https://cs343d.github.io/
 
 Stanford CS243 Program Analysis and Optimization https://suif.stanford.edu/~courses/cs243/
@@ -178,6 +182,8 @@ Washington CSE505 Concepts of Programming Languages https://sites.google.com/cs.
 ### Computer Architecture & Parallel Computing
 
 MIT 6.823 Computer System Architecture http://csg.csail.mit.edu/6.823/lecnotes.html
+
+Cornell CS7491 The Great ISA https://www.cs.cornell.edu/courses/cs7491/2020sp/
 
 Berkeley CS152 Computer Architecture and Engineering https://inst.eecs.berkeley.edu/~cs152/sp21/
 
