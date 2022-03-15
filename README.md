@@ -84,6 +84,8 @@ Harvard CS165 Data Systems http://daslab.seas.harvard.edu/classes/cs165/
 
 Harvard CS265 Big Data Systems http://daslab.seas.harvard.edu/classes/cs265/
 
+UPenn CIS545 Big Data Analytics https://sites.google.com/seas.upenn.edu/cis545
+
 Rutugers 352 Internet Technology https://people.cs.rutgers.edu/~sn624/352-S21/syllabus.html
 
 Berkeley CS168 Introduction to the Internet: Architecture and Protocols http://cs168.io/
