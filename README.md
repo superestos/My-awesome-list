@@ -84,7 +84,11 @@ Harvard CS165 Data Systems http://daslab.seas.harvard.edu/classes/cs165/
 
 Harvard CS265 Big Data Systems http://daslab.seas.harvard.edu/classes/cs265/
 
+Rutugers 352 Internet Technology https://people.cs.rutgers.edu/~sn624/352-S21/syllabus.html
+
 Berkeley CS168 Introduction to the Internet: Architecture and Protocols http://cs168.io/
+
+Upenn CIS455 Internet and Web Systems https://www.seas.upenn.edu/~cis455/
 
 Upenn CIS553 Networked Systems https://www.seas.upenn.edu/~cis553/
 
@@ -103,6 +107,8 @@ Berekeley CS161 Computer Security https://cs161.org/
 MIT 6.S060 Foundations of Computer Security https://6s060.csail.mit.edu/2021/
 
 MIT 6.858 Computer Systems Security https://css.csail.mit.edu/6.858
+
+UCSD CSE127 Intro to Computer Security https://cseweb.ucsd.edu/~dstefan/cse127-fall21/
 
 UMich EECS388 Introduction to Computer Security https://eecs388.org/assignments.html
 
@@ -140,6 +146,8 @@ UCSD CSE291 Virtualization https://cseweb.ucsd.edu/~yiying/cse291-winter22/readi
 
 ### Programming Languages
 
+Harvard CS152 Programming Languages https://groups.seas.harvard.edu/courses/cs152/2022sp/schedule.html
+
 Washington CSE341 Programming Languages https://sites.google.com/cs.washington.edu/cse341spring2021/lecture
 
 Princeton COS326 Functional Programming https://www.cs.princeton.edu/courses/archive/fall21/cos326/schedule.php
@@ -174,6 +182,8 @@ Cornell CS6114 Network Programming Languages https://cornell-pl.github.io/cs6114
 Stanford CS343D Domain-Specific Programming Models and Compilers https://cs343d.github.io/
 
 Stanford CS243 Program Analysis and Optimization https://suif.stanford.edu/~courses/cs243/
+
+CMU 15-316 Software Foundations of Security & Privacy https://15316-cmu.github.io/2021/schedule.html
 
 CMU 15-414 Bug Catching: Automated Program Verification http://www.cs.cmu.edu/~15414/s22/schedule.html
 
