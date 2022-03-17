@@ -142,6 +142,8 @@ Stanford CS349D: Cloud Computing Technology http://web.stanford.edu/class/cs349d
 
 Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
 
+CMU 10-414 Deep Learning Systems https://dlsyscourse.org/lectures/
+
 CMU 15-884 Machine Learning Systems https://catalyst.cs.cmu.edu/15-884-mlsys-sp21/schedule
 
 UCSD CSE291 Virtualization https://cseweb.ucsd.edu/~yiying/cse291-winter22/reading/
