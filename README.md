@@ -50,7 +50,7 @@ Princeton COS521 Advanced Algorithm Design https://www.cs.princeton.edu/~singla/
 
 Columbia Algorithms for Massive Data COMS 6998-9 http://www.cs.columbia.edu/~andoni/algoS19/materials.html
 
-COlumbia Advanced Algorithms COMS 4995-2 https://www.cs.columbia.edu/~andoni/advancedS20/materials.html
+Columbia Advanced Algorithms COMS 4995-2 https://www.cs.columbia.edu/~andoni/advancedS20/materials.html
 
 Brown CSCI1440 Algorithmic Game Theory http://cs.brown.edu/courses/csci1440/lectures/
 
@@ -98,6 +98,8 @@ Princeton COS461 Computer Networks https://www.cs.princeton.edu/courses/archive/
 
 UMich EECS489 Computer Networks https://github.com/mosharaf/eecs489
 
+Brown CSCI1680 Computer Networks https://cs.brown.edu/courses/csci1680/s22/schedule/
+
 Stanford CS144 Introduction to Computer Networking https://cs144.github.io/
 
 Stanford CS253 Web Security https://web.stanford.edu/class/cs253/
@@ -141,6 +143,8 @@ Cornell CS5412 Topics in Cloud Computing https://www.cs.cornell.edu/courses/cs54
 Stanford CS349D: Cloud Computing Technology http://web.stanford.edu/class/cs349d/
 
 Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
+
+Berkeley CS294-168 Machine Learning Systems https://ucbrise.github.io/cs294-ai-sys-sp22/
 
 CMU 10-414 Deep Learning Systems https://dlsyscourse.org/lectures/
 
