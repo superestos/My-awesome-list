@@ -138,6 +138,8 @@ CMU 15-319 Cloud Computing http://www.cs.cmu.edu/~msakr/15619-s20/recitations.ht
 
 CMU 15-440 Distributed Systems https://www.synergylabs.org/courses/15-440/syllabus.html
 
+Cornell CS5414 Distributed Computing Principles https://www.cs.cornell.edu/courses/cs5414/2020fa/
+
 Cornell CS5412 Topics in Cloud Computing https://www.cs.cornell.edu/courses/cs5412/2022sp/Syllabus.html
 
 Stanford CS349D: Cloud Computing Technology http://web.stanford.edu/class/cs349d/
