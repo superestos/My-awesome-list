@@ -187,6 +187,8 @@ MIT 6.822 Formal Reasoning About Programs https://frap.csail.mit.edu/main
 
 MIT 6.826 Principles of Computer Systems https://6826.csail.mit.edu/2020/
 
+EPFL CS-550 Formal Verification https://tube.switch.ch/channels/f2d4e01d
+
 Cornell CS6114 Network Programming Languages https://cornell-pl.github.io/cs6114/schedule/
 
 Stanford CS343D Domain-Specific Programming Models and Compilers https://cs343d.github.io/
