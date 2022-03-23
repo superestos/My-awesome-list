@@ -42,6 +42,8 @@ MIT 6.854 Advanced Algorithms http://courses.csail.mit.edu/6.854/21/
 
 MIT 6.856J Randomized Algorithms https://courses.csail.mit.edu/6.856/current/
 
+Brekeley EE127 Optimization Models and Applications https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/index.html
+
 UWisc CS524 Introduction to Optimization https://laurentlessard.com/teaching/524-intro-to-optimization/
 
 CMU 10-810 Advanced Optimization and Randomized Methods http://www.cs.cmu.edu/~suvrit/teach/aopt.html
