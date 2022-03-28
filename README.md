@@ -104,9 +104,11 @@ Brown CSCI1680 Computer Networks https://cs.brown.edu/courses/csci1680/s22/sched
 
 Stanford CS144 Introduction to Computer Networking https://cs144.github.io/
 
-Stanford CS253 Web Security https://web.stanford.edu/class/cs253/
+Stanford CS249i The Modern Internet https://cs249i.stanford.edu/
 
 Stanford CS155 Computer and Network Security https://cs155.stanford.edu/syllabus.html
+
+Stanford CS253 Web Security https://web.stanford.edu/class/cs253/
 
 Berekeley CS161 Computer Security https://cs161.org/
 
