@@ -174,6 +174,10 @@ Cornell CS6110 Advanced Programming Languages https://www.cs.cornell.edu/courses
 
 Cornell CS6120 Advanced Compilers https://www.cs.cornell.edu/courses/cs6120/2022sp/schedule/
 
+Utah CS3520 Programming Languages https://my.eng.utah.edu/~cs3520/f20/schedule.html
+
+Utah CS6110 Software Verification https://my.eng.utah.edu/~cs6110/
+
 UPenn CIS341 Compilers https://www.seas.upenn.edu/~cis341/current/index.html
 
 UMich EECS390 Programming Paradigms https://eecs390.org/
