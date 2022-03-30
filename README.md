@@ -250,6 +250,8 @@ UMich EECS481 Software Engineering https://dijkstra.eecs.umich.edu/kleach/eecs48
 UMich EECS485 Web Systems https://eecs485staff.github.io/eecs485.org/ 
 https://dijkstra.eecs.umich.edu/kleach/eecs485/su20/
 
+Utah Web Browser Engineering https://browser.engineering/
+
 Stanford CS142: Web Applications https://web.stanford.edu/class/cs142/lectures.html
 
 Stanford CS197 Computer Science Research https://web.stanford.edu/class/cs197/
