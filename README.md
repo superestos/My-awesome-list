@@ -197,6 +197,10 @@ MIT 6.826 Principles of Computer Systems https://6826.csail.mit.edu/2020/
 
 EPFL CS-550 Formal Verification https://tube.switch.ch/channels/f2d4e01d
 
+ETH 263-2812-00L Program Verification https://www.pm.inf.ethz.ch/education/courses/program-verification.html
+
+UIUC CS476 Program Verification https://courses.grainger.illinois.edu/CS476/sp2021/
+
 Cornell CS6114 Network Programming Languages https://cornell-pl.github.io/cs6114/schedule/
 
 Stanford CS343D Domain-Specific Programming Models and Compilers https://cs343d.github.io/
