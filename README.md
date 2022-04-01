@@ -88,6 +88,8 @@ Harvard CS265 Big Data Systems http://daslab.seas.harvard.edu/classes/cs265/
 
 UPenn CIS545 Big Data Analytics https://sites.google.com/seas.upenn.edu/cis545
 
+UCSD DSC102 Systems for Scalable Analytics https://cseweb.ucsd.edu/~arunkk/dsc102_winter22/schedule.html
+
 Rutugers 352 Internet Technology https://people.cs.rutgers.edu/~sn624/352-S21/syllabus.html
 
 Berkeley CS168 Introduction to the Internet: Architecture and Protocols http://cs168.io/
@@ -185,6 +187,8 @@ UMich EECS390 Programming Paradigms https://eecs390.org/
 UMich EECS483 Compiler Construction https://dijkstra.eecs.umich.edu/eecs483/lectures.php
 
 UMich EECS590 Advanced Programming Languages https://web.eecs.umich.edu/~weimerw/590/lectures.html
+
+CMU 15-814 Types and Programming Languages http://www.cs.cmu.edu/~fp/courses/15814-f21/schedule.html
 
 CMU 17-355 Program Analysis http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/ 
 https://cmu-program-analysis.github.io/2021/index.html
