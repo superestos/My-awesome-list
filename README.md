@@ -257,7 +257,7 @@ MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 
 UCLA CS130 Software Engineering https://www.cs130.org/lectures/
 
-UMich EECS481 Software Engineering https://dijkstra.eecs.umich.edu/kleach/eecs481/w21/lectures.php
+UMich EECS481 Software Engineering https://web.eecs.umich.edu/~weimerw/481/lectures.html
 
 UMich EECS485 Web Systems https://eecs485staff.github.io/eecs485.org/ 
 https://dijkstra.eecs.umich.edu/kleach/eecs485/su20/
