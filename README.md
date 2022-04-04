@@ -225,6 +225,8 @@ MIT 6.823 Computer System Architecture http://csg.csail.mit.edu/6.823/lecnotes.h
 
 Cornell CS7491 The Great ISA https://www.cs.cornell.edu/courses/cs7491/2020sp/
 
+UCI CS250B Modern Computer Systems https://www.ics.uci.edu/~swjun/courses/2021S-CS250B/index.htm
+
 Berkeley CS152 Computer Architecture and Engineering https://inst.eecs.berkeley.edu/~cs152/sp21/
 
 Berkeley CS194-15 Introduction to Parallel Programming https://sites.google.com/berkeley.edu/cs194-15-fall-2021
@@ -257,12 +259,16 @@ MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 
 UCLA CS130 Software Engineering https://www.cs130.org/lectures/
 
+UCSD CSE210 Principles of Software Engineering https://sites.google.com/eng.ucsd.edu/cse-210-fall-2021/home/contact
+
 UMich EECS481 Software Engineering https://web.eecs.umich.edu/~weimerw/481/lectures.html
 
 UMich EECS485 Web Systems https://eecs485staff.github.io/eecs485.org/ 
 https://dijkstra.eecs.umich.edu/kleach/eecs485/su20/
 
 Utah Web Browser Engineering https://browser.engineering/
+
+MIT weblab https://weblab.mit.edu/schedule/
 
 Stanford CS142: Web Applications https://web.stanford.edu/class/cs142/lectures.html
 
