@@ -58,6 +58,8 @@ Brown CSCI1440 Algorithmic Game Theory http://cs.brown.edu/courses/csci1440/lect
 
 Stanford CS364A Algorithmic Game Theory http://timroughgarden.org/f13/f13.html
 
+Stanford CS255 Introduction to Cryptography https://crypto.stanford.edu/~dabo/cs255/
+
 ### Computer Systems
 
 MIT 6.033 Computer System Engineering http://web.mit.edu/6.033/www/
