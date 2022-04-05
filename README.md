@@ -257,6 +257,10 @@ Gatech CS6290 High Performance Computer Architecture https://omscs.gatech.edu/cs
 
 MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 
+CMU 17-214 Principles of Software Construction https://www.cs.cmu.edu/~charlie/courses/17-214/2021-spring/
+
+CMU 17-313 Foundations of Software Engineering https://cmu-313.github.io//calendar/
+
 UCLA CS130 Software Engineering https://www.cs130.org/lectures/
 
 UCSD CSE210 Principles of Software Engineering https://sites.google.com/eng.ucsd.edu/cse-210-fall-2021/home/contact
