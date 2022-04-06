@@ -272,8 +272,6 @@ UMich EECS481 Software Engineering https://web.eecs.umich.edu/~weimerw/481/lectu
 UMich EECS485 Web Systems https://eecs485staff.github.io/eecs485.org/ 
 https://dijkstra.eecs.umich.edu/kleach/eecs485/su20/
 
-Utah Web Browser Engineering https://browser.engineering/
-
 MIT weblab https://weblab.mit.edu/schedule/
 
 Stanford CS142: Web Applications https://web.stanford.edu/class/cs142/lectures.html
@@ -326,6 +324,12 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/
 
 Distributed systems theory for the distributed systems engineer
 https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/
+
+Web Browser Engineering
+https://browser.engineering/
+
+Beej's Guide to Network Programming
+https://beej.us/guide/bgnet/html/index-wide.html
 
 ## Talks
 
