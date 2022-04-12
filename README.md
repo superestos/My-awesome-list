@@ -106,6 +106,10 @@ UMich EECS489 Computer Networks https://github.com/mosharaf/eecs489
 
 Brown CSCI1680 Computer Networks https://cs.brown.edu/courses/csci1680/s22/schedule/
 
+CMU 15-744 Computer Networks https://www.cs.cmu.edu/~15744/syllabus.html
+
+UWisc CS740 Advanced Computer Networks https://pages.cs.wisc.edu/~akella/CS740/S20/papers.html
+
 Stanford CS144 Introduction to Computer Networking https://cs144.github.io/
 
 Stanford CS249i The Modern Internet https://cs249i.stanford.edu/
