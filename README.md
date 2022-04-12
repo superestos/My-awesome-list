@@ -307,6 +307,9 @@ https://www.youtube.com/watch?v=xrR0E7MImAE
 Gernot's Tips and Guidance for Students Writing Papers and Reports
 https://gernot-heiser.org/style-guide.html
 
+Bret Victor
+http://worrydream.com/#!/quotes
+
 Logic Matters
 https://www.logicmatters.net/
 
@@ -353,8 +356,11 @@ http://worrydream.com/refs/Kay%20-%20Powerful%20Ideas%20Need%20Love%20Too.html
 
 ### Others
 
-Moshe Vardi. From Aristotle to the iPhone
+Moshe Vardi: From Aristotle to the iPhone
 https://www.youtube.com/watch?v=wOQuW6QFdos
+
+Richard W. Hamming: Learning to Learn
+https://www.youtube.com/playlist?list=PLUeG2W-NLloyr1H2J1wO4MKnvz__B4-u6
 
 ## Misc
 
