@@ -50,9 +50,11 @@ CMU 10-810 Advanced Optimization and Randomized Methods http://www.cs.cmu.edu/~s
 
 Princeton COS521 Advanced Algorithm Design https://www.cs.princeton.edu/~singla/COS521.html
 
-Columbia Algorithms for Massive Data COMS 6998-9 http://www.cs.columbia.edu/~andoni/algoS19/materials.html
+Columbia COMS6998-9 Algorithms for Massive Data http://www.cs.columbia.edu/~andoni/algoS19/materials.html
 
-Columbia Advanced Algorithms COMS 4995-2 https://www.cs.columbia.edu/~andoni/advancedS20/materials.html
+Columbia COMS4995-2 Advanced Algorithms https://www.cs.columbia.edu/~andoni/advancedS20/materials.html
+
+Columbia COMS4995 Incentives in Computer Science http://www.cs.columbia.edu/~tr/s20/s20.html
 
 Brown CSCI1440 Algorithmic Game Theory http://cs.brown.edu/courses/csci1440/lectures/
 
@@ -138,6 +140,8 @@ Princeton COS518 Advanced Computer Systems https://cos518.github.io/syllabus.htm
 
 JHU CS718 Advanced Operating Systems https://www.cs.jhu.edu/~huang/cs718/spring20/syllabus.html
 
+Harvard CS261 Research Topics in Operating Systems https://read.seas.harvard.edu/cs261/2021/
+
 Harvard CS260r Topics and Close Readings in Software Systems https://read.seas.harvard.edu/cs260r/2022/
 
 Berkeley CS286B Graduate Database Systems https://cs286berkeley.net/
@@ -154,6 +158,8 @@ CMU 15-319 Cloud Computing http://www.cs.cmu.edu/~msakr/15619-s20/recitations.ht
 
 CMU 15-440 Distributed Systems https://www.synergylabs.org/courses/15-440/syllabus.html
 
+CMU 15-719 Advanced Cloud Computing https://www.cs.cmu.edu/~15719/readinglist.html
+
 Cornell CS5414 Distributed Computing Principles https://www.cs.cornell.edu/courses/cs5414/2020fa/
 
 Cornell CS5412 Topics in Cloud Computing https://www.cs.cornell.edu/courses/cs5412/2022sp/Syllabus.html
@@ -161,6 +167,8 @@ Cornell CS5412 Topics in Cloud Computing https://www.cs.cornell.edu/courses/cs54
 Stanford CS349D: Cloud Computing Technology http://web.stanford.edu/class/cs349d/
 
 Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
+
+CMU 18-746 Storage Systems https://course.ece.cmu.edu/~ece746/readinglist.html
 
 Berkeley CS294-168 Machine Learning Systems https://ucbrise.github.io/cs294-ai-sys-sp22/
 
@@ -171,6 +179,8 @@ CMU 15-884 Machine Learning Systems https://catalyst.cs.cmu.edu/15-884-mlsys-sp2
 UCSD CSE291 Virtualization https://cseweb.ucsd.edu/~yiying/cse291-winter22/reading/
 
 ### Programming Languages
+
+CMU 15-122 Principles of Imperative Computation https://www.cs.cmu.edu/~15122/schedule.shtml
 
 Harvard CS152 Programming Languages https://groups.seas.harvard.edu/courses/cs152/2022sp/schedule.html
 
