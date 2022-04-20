@@ -352,6 +352,12 @@ https://browser.engineering/
 Beej's Guide to Network Programming
 https://beej.us/guide/bgnet/html/index-wide.html
 
+Awesome Database Learning
+https://github.com/pingcap/awesome-database-learning
+
+TLA+ Video Course
+https://lamport.azurewebsites.net/video/videos.html
+
 ## Talks
 
 ### Alan Kay
