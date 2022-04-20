@@ -138,6 +138,10 @@ Princeton COS518 Advanced Computer Systems https://cos518.github.io/syllabus.htm
 
 JHU CS718 Advanced Operating Systems https://www.cs.jhu.edu/~huang/cs718/spring20/syllabus.html
 
+Harvard CS260r Topics and Close Readings in Software Systems https://read.seas.harvard.edu/cs260r/2022/
+
+Berkeley CS286B Graduate Database Systems https://cs286berkeley.net/
+
 CMU 15-721 Advanced Database Systems https://15721.courses.cs.cmu.edu/spring2020/schedule.html
 
 UWisc CS744 Big Data Systems https://pages.cs.wisc.edu/~shivaram/cs744-fa21/
