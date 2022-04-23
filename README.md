@@ -296,6 +296,8 @@ Stanford CS142: Web Applications https://web.stanford.edu/class/cs142/lectures.h
 
 Stanford CS197 Computer Science Research https://web.stanford.edu/class/cs197/
 
+Berkeley CS298 Research Culture And Community Norms https://inst.eecs.berkeley.edu/~cs298-7/fa21/topic-schedule/
+
 JHU CS624 Reliable Software Systems https://www.cs.jhu.edu/~huang/cs624/spring22/syllabus.html
 
 Brown CSCI2952-F Distributed Systems at Scale: Microservices Management http://cs.brown.edu/courses/csci2952-f/lectures.html
