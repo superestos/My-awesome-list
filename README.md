@@ -178,6 +178,8 @@ CMU 15-884 Machine Learning Systems https://catalyst.cs.cmu.edu/15-884-mlsys-sp2
 
 UCSD CSE291 Virtualization https://cseweb.ucsd.edu/~yiying/cse291-winter22/reading/
 
+UCSD CSE291H Modern Data Center Systems https://cseweb.ucsd.edu/~yiying/cse291h-fall19/reading/
+
 ### Programming Languages
 
 CMU 15-122 Principles of Imperative Computation https://www.cs.cmu.edu/~15122/schedule.shtml
