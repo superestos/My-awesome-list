@@ -360,6 +360,12 @@ https://github.com/pingcap/awesome-database-learning
 TLA+ Video Course
 https://lamport.azurewebsites.net/video/videos.html
 
+The Tao of PhD
+https://courses.cs.washington.edu/courses/cse590x/22wi/resources/
+
+Parallel Computing: Theory and Practice
+http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html
+
 ## Talks
 
 ### Alan Kay
