@@ -368,6 +368,9 @@ https://courses.cs.washington.edu/courses/cse590x/22wi/resources/
 Parallel Computing: Theory and Practice
 http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html
 
+Memory Ordering at Compile Time
+https://preshing.com/20120625/memory-ordering-at-compile-time/
+
 ## Talks
 
 ### Alan Kay
