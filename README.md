@@ -257,7 +257,7 @@ Berkeley CS267 Applications of Parallel Computers https://sites.google.com/lbl.g
 
 Brown CS1760 Multiprocessor Synchronization http://cs.brown.edu/courses/cs176/lectures.shtml
 
-Waterloo CS798-043 Multicore programming http://tbrown.pro/cs798
+UToronto CS798-043 Multicore programming http://www.cs.utoronto.ca/~tabrown/cs798/
 
 Rice COMP522 Multicore Computing https://www.cs.rice.edu/~johnmc/comp522/lecture-notes/index.html
 
