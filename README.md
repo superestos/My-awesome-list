@@ -28,6 +28,8 @@ Stanford CS265 Randomized Algorithms and Probabilistic Analysis https://web.stan
 
 Stanford CS276 Information Retrieval and Web Search https://web.stanford.edu/class/cs276/
 
+Carleton University COMP5408 Advanced Data Structures https://cglab.ca/~morin/teaching/5408/
+
 UCSD CSE100 Advanced Data Structures  https://ucsd-cse100-s20.github.io/
 
 UCSD CSE202 Combinatorial Algorithms https://users.soe.ucsc.edu/~sesh/Teaching/2021/CSE202/schedule.html
@@ -311,6 +313,8 @@ CMU 15-462 Computer Graphics http://15462.courses.cs.cmu.edu/fall2021/
 Princeton COS426 Computer Graphics https://www.cs.princeton.edu/courses/archive/spring21/cos426/
 
 Washington CSE442 Data Visualization https://courses.cs.washington.edu/courses/cse442/22wi/
+
+MIT 6.893 Philosophy and Theoretical Computer Science https://stellar.mit.edu/S/course/6/fa11/6.893/index.html
 
 ## Books
 
