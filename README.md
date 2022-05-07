@@ -318,6 +318,10 @@ Introduction to Theoretical Computer Science https://introtcs.org/public/index.h
 
 The Joy of Cryptography https://joyofcryptography.com/
 
+## Manuals
+
+The GNU C Library https://www.gnu.org/software/libc/manual/
+
 ## Papers
 
 Hints and principles for computer system and design by Butler Lampson (Keep it simple, use abstractions with clean interfaces and write a spec)
