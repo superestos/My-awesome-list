@@ -265,6 +265,8 @@ Rice COMP522 Multicore Computing https://www.cs.rice.edu/~johnmc/comp522/lecture
 
 MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018
 
+ETH 252-0029-00L Parallel Programming https://spcl.inf.ethz.ch/Teaching/2020-pp/
+
 Stanford CS149 Parallel Computing https://gfxcourses.stanford.edu/cs149/fall21
 
 UMich EECS570 Parallel Computer Architecture https://www.eecs.umich.edu/courses/eecs570/
