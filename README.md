@@ -243,6 +243,10 @@ Washington CSE490P Advanced Programming Languages and Verification https://sites
 
 Washington CSE505 Concepts of Programming Languages https://sites.google.com/cs.washington.edu/cse-505-spring-2021/lecture
 
+Washington CSE507 Computer-Aided Reasoning for Software https://courses.cs.washington.edu/courses/cse507/21au/calendar.html
+
+University Koblenz Formal Specification and Verification https://userpages.uni-koblenz.de/~sofronie/lecture-formal-specif-verif-ws-2021/slides/
+
 ### Computer Architecture & Parallel Computing
 
 MIT 6.823 Computer System Architecture http://csg.csail.mit.edu/6.823/lecnotes.html
