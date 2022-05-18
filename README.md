@@ -385,6 +385,12 @@ http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html
 Memory Ordering at Compile Time
 https://preshing.com/20120625/memory-ordering-at-compile-time/
 
+The Science of System Building
+https://www.linzhong.org/opinions/sciencesofsystembuilding.html
+
+Tips about Writing Systems Papers
+https://www.linzhong.org/opinions/writing.html
+
 ## Talks
 
 ### Alan Kay
