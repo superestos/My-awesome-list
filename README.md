@@ -212,10 +212,14 @@ UMich EECS483 Compiler Construction https://dijkstra.eecs.umich.edu/eecs483/lect
 
 UMich EECS590 Advanced Programming Languages https://web.eecs.umich.edu/~weimerw/590/lectures.html
 
+CMU 15-745 Optimizing Compilers for Modern Architectures http://www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/syllabus.html
+
 CMU 15-814 Types and Programming Languages http://www.cs.cmu.edu/~fp/courses/15814-f21/schedule.html
 
 CMU 17-355 Program Analysis http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/ 
 https://cmu-program-analysis.github.io/2021/index.html
+
+UFMG DCC888 Static Program Analysis https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/
 
 MIT 6.820 Fundamentals of Program Analysis https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015/
 
