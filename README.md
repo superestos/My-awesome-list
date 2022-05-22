@@ -22,6 +22,8 @@ Princeton Algorithm Design Textbook Slides https://www.cs.princeton.edu/~wayne/k
 
 CMU 15-451 Algorithms https://www.cs.cmu.edu/~15451-f21/schedule.html
 
+CMU 15-853 Algorithms in the Real World https://www.cs.cmu.edu/afs/cs/project/pscico-guyb/realworld/www/slidesS18.html
+
 Berkeley CS170 Efficient Algorithms and Intractable Problems https://cs170.org/
 
 Stanford CS265 Randomized Algorithms and Probabilistic Analysis https://web.stanford.edu/class/cs265/
