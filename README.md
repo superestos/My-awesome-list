@@ -10,6 +10,8 @@ Virginia CS3102 Theory of Computation https://uvatoc.github.io/schedule/
 
 UMich EECS376 Foundations of Computer Science https://eecs376.org/
 
+POSTECH CS433 Logic in Computer Science http://pl.postech.ac.kr/~gla/cs433/schedule.html
+
 CMU 15-317 Constructive Logic https://www.cs.cmu.edu/~fp/courses/15317-f17/schedule.html
 
 CMU 15-455 Undergraduate Complexity Theory http://www.cs.cmu.edu/~15455/table.html
@@ -274,6 +276,8 @@ UToronto CS798-043 Multicore programming http://www.cs.utoronto.ca/~tabrown/cs79
 Rice COMP522 Multicore Computing https://www.cs.rice.edu/~johnmc/comp522/lecture-notes/index.html
 
 MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018
+
+ETH Seminar Hands-on Acceleration on Heterogeneous Computing Systems https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=heterogeneous_systems
 
 ETH 252-0029-00L Parallel Programming https://spcl.inf.ethz.ch/Teaching/2020-pp/
 
