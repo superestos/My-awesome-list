@@ -4,6 +4,8 @@
 
 ### Math, Algorithm & Theory
 
+CMU CS251 Great Ideas in Theoretical Computer Science https://www.cs251.com/index.html
+
 MIT 18.404J Theory of Computation https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/
 
 Virginia CS3102 Theory of Computation https://uvatoc.github.io/schedule/
