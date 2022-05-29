@@ -326,6 +326,8 @@ Brown CSCI2952-F Distributed Systems at Scale: Microservices Management http://c
 
 ### AI, Graphics & Applications
 
+USTC EE3001 Machine Learning https://miralab.ai/course/ml_2021fall/
+
 CMU 15-462 Computer Graphics http://15462.courses.cs.cmu.edu/fall2021/
 
 Princeton COS426 Computer Graphics https://www.cs.princeton.edu/courses/archive/spring21/cos426/
