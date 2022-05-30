@@ -162,6 +162,8 @@ UWisc CS764 Topics in Database Management Systems https://pages.cs.wisc.edu/~yxy
 
 UWisc CS839 Design the Next-Generation Database https://pages.cs.wisc.edu/~yxy/cs839-s20/index.html
 
+UIUC CS598XU Reliability of Cloud-Scale Systems https://cs598txu-uiuc.github.io/spring22/readings.html
+
 CMU 15-319 Cloud Computing http://www.cs.cmu.edu/~msakr/15619-s20/recitations.html
 
 CMU 15-440 Distributed Systems https://www.synergylabs.org/courses/15-440/syllabus.html
