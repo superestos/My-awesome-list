@@ -152,6 +152,10 @@ Harvard CS261 Research Topics in Operating Systems https://read.seas.harvard.edu
 
 Harvard CS260r Topics and Close Readings in Software Systems https://read.seas.harvard.edu/cs260r/2022/
 
+UIUC CS523 Advanced Operating Systems https://cs523-uiuc.github.io/fall21/readings.html
+
+UIUC CS591 Systems Seminar https://systems-seminar-uiuc.github.io/
+
 Berkeley CS286B Graduate Database Systems https://cs286berkeley.net/
 
 CMU 15-721 Advanced Database Systems https://15721.courses.cs.cmu.edu/spring2020/schedule.html
