@@ -218,6 +218,10 @@ Utah CS6110 Software Verification https://my.eng.utah.edu/~cs6110/
 
 UPenn CIS341 Compilers https://www.seas.upenn.edu/~cis341/current/index.html
 
+KAIST CS420 Compiler Design https://github.com/prosyslab-classroom/cs524-program-analysis/tree/2021-fall
+
+KAIST CS592 Introduction to Program Analysis https://github.com/prosyslab-classroom/cs524-program-analysis/tree/2021-fall
+
 UMich EECS390 Programming Paradigms https://eecs390.org/
 
 UMich EECS483 Compiler Construction https://dijkstra.eecs.umich.edu/eecs483/lectures.php
