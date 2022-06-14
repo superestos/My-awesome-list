@@ -158,6 +158,8 @@ UIUC CS523 Advanced Operating Systems https://cs523-uiuc.github.io/fall21/readin
 
 UIUC CS591 Systems Seminar https://systems-seminar-uiuc.github.io/
 
+TUM Transaction Systems https://db.in.tum.de/teaching/ss22/transactions/?lang=en
+
 Berkeley CS286B Graduate Database Systems https://cs286berkeley.net/
 
 CMU 15-721 Advanced Database Systems https://15721.courses.cs.cmu.edu/spring2020/schedule.html
@@ -337,6 +339,8 @@ JHU CS624 Reliable Software Systems https://www.cs.jhu.edu/~huang/cs624/spring22
 Brown CSCI2952-F Distributed Systems at Scale: Microservices Management http://cs.brown.edu/courses/csci2952-f/lectures.html
 
 ### AI, Graphics & Applications
+
+UChicago CS11111 Creative Coding https://www.classes.cs.uchicago.edu/archive/2022/winter/11111-1/schedule.html
 
 USTC EE3001 Machine Learning https://miralab.ai/course/ml_2021fall/
 
