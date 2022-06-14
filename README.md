@@ -76,6 +76,8 @@ MIT 6.033 Computer System Engineering http://web.mit.edu/6.033/www/
 
 Utah CS4400 Computer Systems https://my.eng.utah.edu/~cs4400/
 
+Stanford CS110L Safety in Systems Programming https://reberhardt.com/cs110l/spring-2020/
+
 Cornell CS4414 Systems Programming https://www.cs.cornell.edu/courses/cs4414
 
 Brown CSCI1310 Fundamentals of Computer Systems http://cs.brown.edu/courses/csci1310/2020/schedule.html
