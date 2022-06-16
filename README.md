@@ -208,6 +208,8 @@ Washington CSE341 Programming Languages https://sites.google.com/cs.washington.e
 
 Princeton COS326 Functional Programming https://www.cs.princeton.edu/courses/archive/fall21/cos326/schedule.php
 
+Upenn CIS552 Advanced Programming https://www.seas.upenn.edu/~cis552/current/schedule.html
+
 Cornell CS3110 Data Structures and Functional Programming https://cs3110.github.io/textbook/cover.html
 
 Cornell CS4110 Programming Languages and Logics https://www.cs.cornell.edu/courses/cs4110/2021fa/schedule.html
