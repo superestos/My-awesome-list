@@ -285,6 +285,8 @@ Berkeley CS194-15 Introduction to Parallel Programming https://sites.google.com/
 
 Berkeley CS267 Applications of Parallel Computers https://sites.google.com/lbl.gov/cs267-spr2021
 
+UCR CS214 Parallel Algorithms https://www.cs.ucr.edu/~yihans/teaching/214/W22//schedule/index.html
+
 Brown CS1760 Multiprocessor Synchronization http://cs.brown.edu/courses/cs176/lectures.shtml
 
 UToronto CS798-043 Multicore programming http://www.cs.utoronto.ca/~tabrown/cs798/
