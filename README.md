@@ -118,6 +118,8 @@ UMich EECS489 Computer Networks https://github.com/mosharaf/eecs489
 
 Brown CSCI1680 Computer Networks https://cs.brown.edu/courses/csci1680/s22/schedule/
 
+ETH Communication Networks https://comm-net.ethz.ch/2021/
+
 CMU 15-744 Computer Networks https://www.cs.cmu.edu/~15744/syllabus.html
 
 UWisc CS740 Advanced Computer Networks https://pages.cs.wisc.edu/~akella/CS740/S20/papers.html
