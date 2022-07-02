@@ -334,6 +334,8 @@ https://dijkstra.eecs.umich.edu/kleach/eecs485/su20/
 
 MIT weblab https://weblab.mit.edu/schedule/
 
+Berkeley Linux System Administration https://decal.ocf.berkeley.edu/
+
 Stanford CS142: Web Applications https://web.stanford.edu/class/cs142/lectures.html
 
 Stanford CS197 Computer Science Research https://web.stanford.edu/class/cs197/
