@@ -122,6 +122,8 @@ ETH Communication Networks https://comm-net.ethz.ch/2021/
 
 CMU 15-744 Computer Networks https://www.cs.cmu.edu/~15744/syllabus.html
 
+NYU CSCI-GA.2620-001 Networks and Mobile Systems https://cs.nyu.edu/~anirudh/CSCI-GA.2620-001/
+
 UWisc CS640 Introduction to Computer Networks https://pages.cs.wisc.edu/~mgliu/CS640/F21/syllabus.html
 
 UWisc CS740 Advanced Computer Networks https://pages.cs.wisc.edu/~akella/CS740/S20/papers.html
