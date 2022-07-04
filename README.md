@@ -164,6 +164,8 @@ UIUC CS523 Advanced Operating Systems https://cs523-uiuc.github.io/fall21/readin
 
 UIUC CS591 Systems Seminar https://systems-seminar-uiuc.github.io/
 
+UNSW COMP9242 Advanced Operating Systems http://cs9242.web.cse.unsw.edu.au/~cs9242/22/lectures.shtml
+
 TUM Transaction Systems https://db.in.tum.de/teaching/ss22/transactions/?lang=en
 
 Berkeley CS286B Graduate Database Systems https://cs286berkeley.net/
@@ -278,6 +280,10 @@ Washington CSE505 Concepts of Programming Languages https://sites.google.com/cs.
 Washington CSE507 Computer-Aided Reasoning for Software https://courses.cs.washington.edu/courses/cse507/21au/calendar.html
 
 University Koblenz Formal Specification and Verification https://userpages.uni-koblenz.de/~sofronie/lecture-formal-specif-verif-ws-2021/slides/
+
+UNSW COMP4161 Advanced Topics in Software Verification https://www.cse.unsw.edu.au/~cs4161/
+
+UNSW COMP6752 Modelling Concurrent Systems https://www.cse.unsw.edu.au/~rvg/6752/handouts.html
 
 ### Computer Architecture & Parallel Computing
 
