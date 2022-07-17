@@ -281,9 +281,15 @@ Washington CSE507 Computer-Aided Reasoning for Software https://courses.cs.washi
 
 University Koblenz Formal Specification and Verification https://userpages.uni-koblenz.de/~sofronie/lecture-formal-specif-verif-ws-2021/slides/
 
+MPRI 2-4 Functional Programming and Type Systems https://gitlab.inria.fr/fpottier/mpri-2.4-public
+
 UNSW COMP4161 Advanced Topics in Software Verification https://www.cse.unsw.edu.au/~cs4161/
 
 UNSW COMP6752 Modelling Concurrent Systems https://www.cse.unsw.edu.au/~rvg/6752/handouts.html
+
+Collège de France Mechanized semantics https://xavierleroy.org/CdF/2019-2020/
+
+Collège de France Program logics https://xavierleroy.org/CdF/2020-2021/
 
 ### Computer Architecture & Parallel Computing
 
