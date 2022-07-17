@@ -180,6 +180,8 @@ UWisc CS839 Design the Next-Generation Database https://pages.cs.wisc.edu/~yxy/c
 
 UIUC CS598XU Reliability of Cloud-Scale Systems https://cs598txu-uiuc.github.io/spring22/readings.html
 
+Northeastern CS7680 Programming Models for Distributed Computing https://heather.miller.am/teaching/cs7680/
+
 CMU 15-319 Cloud Computing http://www.cs.cmu.edu/~msakr/15619-s20/recitations.html
 
 CMU 15-440 Distributed Systems https://www.synergylabs.org/courses/15-440/syllabus.html
@@ -304,6 +306,8 @@ Berkeley CS152 Computer Architecture and Engineering https://inst.eecs.berkeley.
 Berkeley CS194-15 Introduction to Parallel Programming https://sites.google.com/berkeley.edu/cs194-15-fall-2021
 
 Berkeley CS267 Applications of Parallel Computers https://sites.google.com/lbl.gov/cs267-spr2021
+
+UTeaxs CS378H Concurrency Honors https://www.cs.utexas.edu/~rossbach/cs378h-s21/schedule.html
 
 UCR CS214 Parallel Algorithms https://www.cs.ucr.edu/~yihans/teaching/214/W22//schedule/index.html
 
