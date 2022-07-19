@@ -194,6 +194,10 @@ Cornell CS5412 Topics in Cloud Computing https://www.cs.cornell.edu/courses/cs54
 
 Stanford CS349D: Cloud Computing Technology http://web.stanford.edu/class/cs349d/
 
+UToronto ECE1724 Designing Modern Web-Scale Applications https://www.eecg.utoronto.ca/~ashvin/courses/ece1724/2022w/index.html
+
+UToronto ECE1781 Dependable Software Systems https://www.eecg.utoronto.ca/~ashvin/courses/ece1781/2018w/index.html
+
 Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
 
 CMU 18-746 Storage Systems https://course.ece.cmu.edu/~ece746/readinglist.html
