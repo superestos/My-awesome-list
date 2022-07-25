@@ -16,6 +16,10 @@ POSTECH CS433 Logic in Computer Science http://pl.postech.ac.kr/~gla/cs433/sched
 
 CMU 15-317 Constructive Logic https://www.cs.cmu.edu/~fp/courses/15317-f17/schedule.html
 
+Standford CS357 Advanced Topics in Formal Methods https://web.stanford.edu/class/cs357/
+
+TUM Logic https://www21.in.tum.de/teaching/logic/SS22/index.html
+
 CMU 15-455 Undergraduate Complexity Theory http://www.cs.cmu.edu/~15455/table.html
 
 Stanford CS166 Data Structures http://web.stanford.edu/class/cs166/
