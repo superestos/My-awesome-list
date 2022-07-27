@@ -236,6 +236,10 @@ Cornell CS6110 Advanced Programming Languages https://www.cs.cornell.edu/courses
 
 Cornell CS6120 Advanced Compilers https://www.cs.cornell.edu/courses/cs6120/2022sp/schedule/
 
+UCSC CSE211 Graduate Compiler Design https://sorensenucsc.github.io/CSE211-fa2021/schedule.html
+
+UMD CMSC430 Design and Implementation of Programming Languages https://www.cs.umd.edu/class/fall2021/cmsc430/Schedule.html
+
 Utah CS3520 Programming Languages https://my.eng.utah.edu/~cs3520/f20/schedule.html
 
 Utah CS6110 Software Verification https://my.eng.utah.edu/~cs6110/
