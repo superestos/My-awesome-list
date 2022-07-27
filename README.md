@@ -108,6 +108,8 @@ UPenn CIS545 Big Data Analytics https://sites.google.com/seas.upenn.edu/cis545
 
 UCSD DSC102 Systems for Scalable Analytics https://cseweb.ucsd.edu/~arunkk/dsc102_winter22/schedule.html
 
+UCSD CS132C Database System Implementation https://cseweb.ucsd.edu/classes/sp22/cse132C-a/schedule.html
+
 Rutugers 352 Internet Technology https://people.cs.rutgers.edu/~sn624/352-S21/syllabus.html
 
 Berkeley CS168 Introduction to the Internet: Architecture and Protocols http://cs168.io/
