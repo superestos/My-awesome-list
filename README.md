@@ -16,6 +16,8 @@ POSTECH CS433 Logic in Computer Science http://pl.postech.ac.kr/~gla/cs433/sched
 
 CMU 15-317 Constructive Logic https://www.cs.cmu.edu/~fp/courses/15317-f17/schedule.html
 
+CMU 15-217 Logic and Mechanized Reasoning https://www.cs.cmu.edu/~mheule/15217-f22/schedule.html
+
 Standford CS357 Advanced Topics in Formal Methods https://web.stanford.edu/class/cs357/
 
 TUM Logic https://www21.in.tum.de/teaching/logic/SS22/index.html
