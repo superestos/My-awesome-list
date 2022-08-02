@@ -275,6 +275,10 @@ MIT 6.822 Formal Reasoning About Programs https://frap.csail.mit.edu/main
 
 MIT 6.826 Principles of Computer Systems https://6826.csail.mit.edu/2020/
 
+VU Amsterdam Logic and Modeling https://robertylewis.com/logic_and_modeling/
+
+VU Amsterdam Logical Verification https://lean-forward.github.io/logical-verification/2021/index.html
+
 EPFL CS-550 Formal Verification https://tube.switch.ch/channels/f2d4e01d
 
 ETH 263-2812-00L Program Verification https://www.pm.inf.ethz.ch/education/courses/program-verification.html
