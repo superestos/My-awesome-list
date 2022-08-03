@@ -254,6 +254,8 @@ KAIST CS420 Compiler Design https://github.com/prosyslab-classroom/cs524-program
 
 KAIST CS592 Introduction to Program Analysis https://github.com/prosyslab-classroom/cs524-program-analysis/tree/2021-fall
 
+Rochester CSC255 Software Analysis and Improvement https://cs.rochester.edu/~sree/courses/csc-255-455/spring-2022/schedule.html
+
 UMich EECS390 Programming Paradigms https://eecs390.org/
 
 UMich EECS483 Compiler Construction https://dijkstra.eecs.umich.edu/eecs483/lectures.php
@@ -284,6 +286,8 @@ EPFL CS-550 Formal Verification https://tube.switch.ch/channels/f2d4e01d
 ETH 263-2812-00L Program Verification https://www.pm.inf.ethz.ch/education/courses/program-verification.html
 
 UIUC CS476 Program Verification https://courses.grainger.illinois.edu/CS476/sp2021/
+
+UIUC CS477 Formal Software Development Methods http://misailo.web.engr.illinois.edu/courses/477-fa21/
 
 Cornell CS6114 Network Programming Languages https://cornell-pl.github.io/cs6114/schedule/
 
