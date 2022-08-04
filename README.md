@@ -305,6 +305,12 @@ Washington CSE505 Concepts of Programming Languages https://sites.google.com/cs.
 
 Washington CSE507 Computer-Aided Reasoning for Software https://courses.cs.washington.edu/courses/cse507/21au/calendar.html
 
+Purdue CS560 Reasoning About Programs https://www.cs.purdue.edu/homes/roopsha/cs560rap/s21/index.html#schedule-tab
+
+UCSD CSE291 Program Synthesis https://github.com/nadia-polikarpova/cse291-program-synthesis
+
+UIowa CS5810 Formal Methods in Software Engineering https://homepage.cs.uiowa.edu/~tinelli/classes/181/Fall21/lectures.shtml
+
 University Koblenz Formal Specification and Verification https://userpages.uni-koblenz.de/~sofronie/lecture-formal-specif-verif-ws-2021/slides/
 
 MPRI 2-4 Functional Programming and Type Systems https://gitlab.inria.fr/fpottier/mpri-2.4-public
