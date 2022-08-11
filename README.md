@@ -158,6 +158,8 @@ Stanford CS251 Blockchain Technologies https://cs251.stanford.edu/syllabus.html
 
 Stanford CS240 Advanced Topics in Operating Systems http://web.stanford.edu/class/cs240/
 
+Berkeley CS262A Advanced Topics in Computer Systems https://ucbrise.github.io/cs262a-spring2018/
+
 Berkeley CS262B Advanced Topics in Computer Systems https://deculler.github.io/cs262b-sp20
 
 Princeton COS518 Advanced Computer Systems https://cos518.github.io/syllabus.html
