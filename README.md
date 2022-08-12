@@ -246,6 +246,8 @@ UCSC CSE211 Graduate Compiler Design https://sorensenucsc.github.io/CSE211-fa202
 
 UMD CMSC430 Design and Implementation of Programming Languages https://www.cs.umd.edu/class/fall2021/cmsc430/Schedule.html
 
+TUM IN2113 Programming Languages https://www.cs.cit.tum.de/pl/lehre/wintersemester-1819/vorlesungen/programming-languages/
+
 Utah CS3520 Programming Languages https://my.eng.utah.edu/~cs3520/f20/schedule.html
 
 Utah CS6110 Software Verification https://my.eng.utah.edu/~cs6110/
