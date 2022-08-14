@@ -190,6 +190,10 @@ UWisc CS839 Design the Next-Generation Database https://pages.cs.wisc.edu/~yxy/c
 
 UIUC CS598XU Reliability of Cloud-Scale Systems https://cs598txu-uiuc.github.io/spring22/readings.html
 
+KAUST CS240 Computing Systems and Concurrency https://sands.kaust.edu.sa/classes/CS240/F21/syllabus.html
+
+Northeastern CS4240 Large-Scale Parallel Data Processing https://heather.miller.am/teaching/cs4240/spring2018/
+
 Northeastern CS7680 Programming Models for Distributed Computing https://heather.miller.am/teaching/cs7680/
 
 CMU 15-319 Cloud Computing http://www.cs.cmu.edu/~msakr/15619-s20/recitations.html
