@@ -414,6 +414,12 @@ CMU 15-462 Computer Graphics http://15462.courses.cs.cmu.edu/fall2021/
 
 Princeton COS426 Computer Graphics https://www.cs.princeton.edu/courses/archive/spring21/cos426/
 
+Stanford CS248 Interactive Computer Graphics https://gfxcourses.stanford.edu/cs248/winter22
+
+Stanford CS348B Image Synthesis Techniques https://gfxcourses.stanford.edu/cs348b/spring22
+
+Stanford CS348K Visual Computing Systems https://gfxcourses.stanford.edu/cs348k/spring22
+
 Washington CSE442 Data Visualization https://courses.cs.washington.edu/courses/cse442/22wi/
 
 MIT 6.893 Philosophy and Theoretical Computer Science https://stellar.mit.edu/S/course/6/fa11/6.893/index.html
