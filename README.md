@@ -493,6 +493,9 @@ https://www.linzhong.org/opinions/sciencesofsystembuilding.html
 Tips about Writing Systems Papers
 https://www.linzhong.org/opinions/writing.html
 
+Cooperative Groups: Flexible CUDA Thread Programming
+https://developer.nvidia.com/blog/cooperative-groups/
+
 ## Talks
 
 ### Alan Kay
