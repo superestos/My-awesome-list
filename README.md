@@ -174,6 +174,8 @@ UIUC CS523 Advanced Operating Systems https://cs523-uiuc.github.io/fall21/readin
 
 UIUC CS591 Systems Seminar https://systems-seminar-uiuc.github.io/
 
+Washington CSE550 Systems for All https://courses.cs.washington.edu/courses/cse550/21au/schedule.html
+
 UNSW COMP9242 Advanced Operating Systems http://cs9242.web.cse.unsw.edu.au/~cs9242/22/lectures.shtml
 
 TUM Transaction Systems https://db.in.tum.de/teaching/ss22/transactions/?lang=en
@@ -233,6 +235,8 @@ CMU 15-122 Principles of Imperative Computation https://www.cs.cmu.edu/~15122/sc
 Harvard CS152 Programming Languages https://groups.seas.harvard.edu/courses/cs152/2022sp/schedule.html
 
 Washington CSE341 Programming Languages https://sites.google.com/cs.washington.edu/cse341spring2021/lecture
+
+Washington CSE402 Design and Implementation of Domain-Specific Languages https://courses.cs.washington.edu/courses/cse402/
 
 Princeton COS326 Functional Programming https://www.cs.princeton.edu/courses/archive/fall21/cos326/schedule.php
 
@@ -308,6 +312,7 @@ CMU 15-316 Software Foundations of Security & Privacy https://15316-cmu.github.i
 CMU 15-414 Bug Catching: Automated Program Verification http://www.cs.cmu.edu/~15414/s22/schedule.html
 
 Washington CSE490P Advanced Programming Languages and Verification https://sites.google.com/cs.washington.edu/cse490p/home
+https://gitlab.cs.washington.edu/jrw12/cse490p-20sp-public
 
 Washington CSE505 Concepts of Programming Languages https://sites.google.com/cs.washington.edu/cse-505-spring-2021/lecture
 
