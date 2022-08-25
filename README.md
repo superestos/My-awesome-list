@@ -260,6 +260,10 @@ Utah CS3520 Programming Languages https://my.eng.utah.edu/~cs3520/f20/schedule.h
 
 Utah CS6110 Software Verification https://my.eng.utah.edu/~cs6110/
 
+UTeaxs CS345H Programming Languages https://www.cs.utexas.edu/~bornholt/courses/cs345h-22au/schedule/
+
+UTeaxs CS395T Systems Verification and Synthesis https://www.cs.utexas.edu/~bornholt/courses/cs395t-22sp/schedule/
+
 UPenn CIS341 Compilers https://www.seas.upenn.edu/~cis341/current/index.html
 
 KAIST CS420 Compiler Design https://github.com/prosyslab-classroom/cs524-program-analysis/tree/2021-fall
