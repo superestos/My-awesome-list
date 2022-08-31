@@ -18,6 +18,8 @@ CMU 15-317 Constructive Logic https://www.cs.cmu.edu/~fp/courses/15317-f17/sched
 
 CMU 15-217 Logic and Mechanized Reasoning https://www.cs.cmu.edu/~mheule/15217-f22/schedule.html
 
+CMU 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability http://www.cs.cmu.edu/~mheule/15816-f22/schedule.html
+
 Standford CS357 Advanced Topics in Formal Methods https://web.stanford.edu/class/cs357/
 
 TUM Logic https://www21.in.tum.de/teaching/logic/SS22/index.html
@@ -300,6 +302,8 @@ VU Amsterdam Logical Verification https://lean-forward.github.io/logical-verific
 EPFL CS-550 Formal Verification https://tube.switch.ch/channels/f2d4e01d
 
 ETH 263-2812-00L Program Verification https://www.pm.inf.ethz.ch/education/courses/program-verification.html
+
+Columbia COMS E6998 Formal Verification of Systems Software https://feline-hamster-182.notion.site/COMS-E6998-Formal-Verification-of-Systems-Software-Fall-2021-531e77f4166c4458b857df58476cb6ef
 
 UIUC CS476 Program Verification https://courses.grainger.illinois.edu/CS476/sp2021/
 
