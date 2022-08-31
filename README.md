@@ -142,20 +142,6 @@ Stanford CS144 Introduction to Computer Networking https://cs144.github.io/
 
 Stanford CS249i The Modern Internet https://cs249i.stanford.edu/
 
-Stanford CS155 Computer and Network Security https://cs155.stanford.edu/syllabus.html
-
-Stanford CS253 Web Security https://web.stanford.edu/class/cs253/
-
-Berekeley CS161 Computer Security https://cs161.org/
-
-MIT 6.S060 Foundations of Computer Security https://6s060.csail.mit.edu/2021/
-
-MIT 6.858 Computer Systems Security https://css.csail.mit.edu/6.858
-
-UCSD CSE127 Intro to Computer Security https://cseweb.ucsd.edu/~dstefan/cse127-fall21/
-
-UMich EECS388 Introduction to Computer Security https://eecs388.org/assignments.html
-
 Stanford CS251 Blockchain Technologies https://cs251.stanford.edu/syllabus.html
 
 Stanford CS240 Advanced Topics in Operating Systems http://web.stanford.edu/class/cs240/
@@ -386,7 +372,23 @@ Rochester CSC258 Parallel and Distributed Systems https://www.cs.rochester.edu/u
 
 Gatech CS6290 High Performance Computer Architecture https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture-course-videos
 
-### Software Engineering
+### Software Engineering & Security
+
+Stanford CS155 Computer and Network Security https://cs155.stanford.edu/syllabus.html
+
+Stanford CS253 Web Security https://web.stanford.edu/class/cs253/
+
+Berekeley CS161 Computer Security https://cs161.org/
+
+MIT 6.S060 Foundations of Computer Security https://6s060.csail.mit.edu/2021/
+
+MIT 6.858 Computer Systems Security https://css.csail.mit.edu/6.858
+
+UCSD CSE127 Intro to Computer Security https://cseweb.ucsd.edu/~dstefan/cse127-fall21/
+
+UMich EECS388 Introduction to Computer Security https://eecs388.org/assignments.html
+
+PSU CMPSC447 Software Security https://www.cse.psu.edu/~trj1/cmpsc447-s22/schedule.html
 
 MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 
