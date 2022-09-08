@@ -354,6 +354,8 @@ UToronto CS798-043 Multicore programming http://www.cs.utoronto.ca/~tabrown/cs79
 
 Rice COMP522 Multicore Computing https://www.cs.rice.edu/~johnmc/comp522/lecture-notes/index.html
 
+Cambridge Multicore Semantics and Programming https://www.cl.cam.ac.uk/teaching/1920/Multicore/materials.html
+
 MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018
 
 ETH Seminar Hands-on Acceleration on Heterogeneous Computing Systems https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=heterogeneous_systems
