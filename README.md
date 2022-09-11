@@ -142,8 +142,6 @@ Stanford CS144 Introduction to Computer Networking https://cs144.github.io/
 
 Stanford CS249i The Modern Internet https://cs249i.stanford.edu/
 
-Stanford CS251 Blockchain Technologies https://cs251.stanford.edu/syllabus.html
-
 Stanford CS240 Advanced Topics in Operating Systems http://web.stanford.edu/class/cs240/
 
 Berkeley CS262A Advanced Topics in Computer Systems https://ucbrise.github.io/cs262a-spring2018/
@@ -375,6 +373,12 @@ Rochester CSC258 Parallel and Distributed Systems https://www.cs.rochester.edu/u
 Gatech CS6290 High Performance Computer Architecture https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture-course-videos
 
 ### Software Engineering & Security
+
+Stanford CS251 Blockchain Technologies https://cs251.stanford.edu/syllabus.html
+
+Stanford EE374 Blockchain Foundations http://web.stanford.edu/class/ee374/
+
+Princeton COS470 Principles of Blockchains https://web3.princeton.edu/principles-of-blockchains/
 
 Stanford CS155 Computer and Network Security https://cs155.stanford.edu/syllabus.html
 
