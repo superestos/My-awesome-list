@@ -152,6 +152,8 @@ Berkeley CS262B Advanced Topics in Computer Systems https://deculler.github.io/c
 
 Princeton COS518 Advanced Computer Systems https://cos518.github.io/syllabus.html
 
+WUSTL CSE522S Advanced Operating Systems https://classes.engineering.wustl.edu/cse522/
+
 JHU CS718 Advanced Operating Systems https://www.cs.jhu.edu/~huang/cs718/spring20/syllabus.html
 
 Harvard CS261 Research Topics in Operating Systems https://read.seas.harvard.edu/cs261/2021/
