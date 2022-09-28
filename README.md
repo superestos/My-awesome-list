@@ -519,6 +519,9 @@ https://www.linzhong.org/opinions/writing.html
 Cooperative Groups: Flexible CUDA Thread Programming
 https://developer.nvidia.com/blog/cooperative-groups/
 
+Engineering Software as a Service: An Agile Approach Using Cloud Computing
+http://www.saasbook.info/videos
+
 ## Talks
 
 ### Alan Kay
