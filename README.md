@@ -524,6 +524,9 @@ https://developer.nvidia.com/blog/cooperative-groups/
 Engineering Software as a Service: An Agile Approach Using Cloud Computing
 http://www.saasbook.info/videos
 
+Computer Networks: A Systems Approach
+https://book.systemsapproach.org/index.html
+
 ## Talks
 
 ### Alan Kay
