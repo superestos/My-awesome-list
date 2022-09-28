@@ -14,6 +14,8 @@ UMich EECS376 Foundations of Computer Science https://eecs376.org/
 
 POSTECH CS433 Logic in Computer Science http://pl.postech.ac.kr/~gla/cs433/schedule.html
 
+SJTU Mathematical Logic http://basics.sjtu.edu.cn/~chen/teaching/Logic21/
+
 CMU 15-317 Constructive Logic https://www.cs.cmu.edu/~fp/courses/15317-f17/schedule.html
 
 CMU 15-217 Logic and Mechanized Reasoning https://www.cs.cmu.edu/~mheule/15217-f22/schedule.html
