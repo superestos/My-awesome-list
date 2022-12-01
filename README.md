@@ -279,6 +279,8 @@ CMU 15-814 Types and Programming Languages http://www.cs.cmu.edu/~fp/courses/158
 CMU 17-355 Program Analysis http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/ 
 https://cmu-program-analysis.github.io/2021/index.html
 
+Tufts COMP150 Program Analysis, Verification, and Synthesis https://www.cs.tufts.edu/comp/150AVS
+
 UFMG DCC888 Static Program Analysis https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/ementa/
 
 MIT 6.820 Fundamentals of Program Analysis https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015/
@@ -411,6 +413,8 @@ CMU 17-214 Principles of Software Construction https://www.cs.cmu.edu/~charlie/c
 CMU 17-313 Foundations of Software Engineering https://cmu-313.github.io//calendar/
 
 UCLA CS130 Software Engineering https://www.cs130.org/lectures/
+
+Tufts COMP121 Software Engineering https://www.cs.tufts.edu/comp/121/
 
 UCSD CSE210 Principles of Software Engineering https://sites.google.com/eng.ucsd.edu/cse-210-fall-2021/home/contact
 
