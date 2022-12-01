@@ -124,7 +124,7 @@ Berkeley CS168 Introduction to the Internet: Architecture and Protocols http://c
 
 Upenn CIS455 Internet and Web Systems https://www.seas.upenn.edu/~cis455/
 
-Upenn CIS553 Networked Systems https://www.seas.upenn.edu/~cis553/
+Upenn CIS553 Networked Systems https://www.seas.upenn.edu/~cis5530/
 
 Princeton COS461 Computer Networks https://www.cs.princeton.edu/courses/archive/fall21/cos461/schedule.html
 
@@ -234,7 +234,7 @@ Washington CSE402 Design and Implementation of Domain-Specific Languages https:/
 
 Princeton COS326 Functional Programming https://www.cs.princeton.edu/courses/archive/fall21/cos326/schedule.php
 
-Upenn CIS552 Advanced Programming https://www.seas.upenn.edu/~cis552/current/schedule.html
+Upenn CIS552 Advanced Programming https://www.seas.upenn.edu/~cis5520/current/schedule.html
 
 Cornell CS3110 Data Structures and Functional Programming https://cs3110.github.io/textbook/cover.html
 
@@ -258,7 +258,7 @@ UTeaxs CS345H Programming Languages https://www.cs.utexas.edu/~bornholt/courses/
 
 UTeaxs CS395T Systems Verification and Synthesis https://www.cs.utexas.edu/~bornholt/courses/cs395t-22sp/schedule/
 
-UPenn CIS341 Compilers https://www.seas.upenn.edu/~cis341/current/index.html
+UPenn CIS341 Compilers https://www.seas.upenn.edu/~cis3410/current/index.html
 
 KAIST CS420 Compiler Design https://github.com/prosyslab-classroom/cs524-program-analysis/tree/2021-fall
 
