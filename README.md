@@ -256,6 +256,8 @@ UMD CMSC430 Design and Implementation of Programming Languages https://www.cs.um
 
 TUM IN2113 Programming Languages https://www.cs.cit.tum.de/pl/lehre/wintersemester-1819/vorlesungen/programming-languages/
 
+NYU CSCI2110 Programming Languages https://cs.nyu.edu/~wies/teaching/pl-fa22/
+
 Utah CS3520 Programming Languages https://my.eng.utah.edu/~cs3520/f20/schedule.html
 
 Utah CS6110 Software Verification https://my.eng.utah.edu/~cs6110/
@@ -372,6 +374,8 @@ Berkeley CS194-15 Introduction to Parallel Programming https://sites.google.com/
 
 Berkeley CS267 Applications of Parallel Computers https://sites.google.com/lbl.gov/cs267-spr2021
 
+UW AMATH483 High-Performance Scientific Computing https://amath583.github.io/sp22/index.html
+
 UTeaxs CS378H Concurrency Honors https://www.cs.utexas.edu/~rossbach/cs378h-s21/schedule.html
 
 UCR CS214 Parallel Algorithms https://www.cs.ucr.edu/~yihans/teaching/214/W22//schedule/index.html
@@ -389,6 +393,8 @@ MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/course
 ETH Seminar Hands-on Acceleration on Heterogeneous Computing Systems https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=heterogeneous_systems
 
 ETH 252-0029-00L Parallel Programming https://spcl.inf.ethz.ch/Teaching/2020-pp/
+
+Purdue CS353 Principles of Concurrency and Parallelism https://www.cs.purdue.edu/homes/suresh/353-Spring2022/
 
 NUS YSC4231 Parallel, Concurrent and Distributed Programming https://ilyasergey.net/YSC4231/index.html
 
