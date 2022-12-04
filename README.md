@@ -332,6 +332,8 @@ UCSD CSE291 Program Synthesis https://github.com/nadia-polikarpova/cse291-progra
 
 UIowa CS5810 Formal Methods in Software Engineering https://homepage.cs.uiowa.edu/~tinelli/classes/181/Fall21/lectures.shtml
 
+Alexandru Ioan Cuza University Formal Methods in Software Engineering https://sites.google.com/view/fii-fmse/2021-2022/lectures
+
 University Koblenz Formal Specification and Verification https://userpages.uni-koblenz.de/~sofronie/lecture-formal-specif-verif-ws-2021/slides/
 
 MPRI 2-4 Functional Programming and Type Systems https://gitlab.inria.fr/fpottier/mpri-2.4-public
