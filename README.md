@@ -178,6 +178,8 @@ UNSW COMP9242 Advanced Operating Systems http://cs9242.web.cse.unsw.edu.au/~cs92
 
 TUM Transaction Systems https://db.in.tum.de/teaching/ss22/transactions/?lang=en
 
+TUM Data Processing On Modern Hardware http://www-db.cs.tum.edu/teaching/ss21/dataprocessingonmodernhardware/?lang=en
+
 Berkeley CS286B Graduate Database Systems https://cs286berkeley.net/
 
 CMU 15-721 Advanced Database Systems https://15721.courses.cs.cmu.edu/spring2020/schedule.html
@@ -215,6 +217,10 @@ UToronto ECE1781 Dependable Software Systems https://www.eecg.utoronto.ca/~ashvi
 Purdue CS590: Cloud-Native Database Systems https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
 
 CMU 18-746 Storage Systems https://course.ece.cmu.edu/~ece746/readinglist.html
+
+VU Storage Systems https://animeshtrivedi.github.io/course-stosys/
+
+VU Advanced Network Programming https://animeshtrivedi.github.io/course-anp/
 
 Berkeley CS294-168 Machine Learning Systems https://ucbrise.github.io/cs294-ai-sys-sp22/
 
