@@ -12,6 +12,10 @@ Virginia CS3102 Theory of Computation https://uvatoc.github.io/schedule/
 
 UMich EECS376 Foundations of Computer Science https://eecs376.org/
 
+UM Boston CS420 Introduction to the Theory of Computation https://cogumbreiro.github.io//teaching/cs420/f22/
+
+UM Boston CS720 Logical Foundations in Computer Science http://cogumbreiro.github.io/teaching/cs720/s22/
+
 POSTECH CS433 Logic in Computer Science http://pl.postech.ac.kr/~gla/cs433/schedule.html
 
 SJTU Mathematical Logic http://basics.sjtu.edu.cn/~chen/teaching/Logic21/
@@ -245,6 +249,8 @@ Cornell CS6110 Advanced Programming Languages https://www.cs.cornell.edu/courses
 Cornell CS6120 Advanced Compilers https://www.cs.cornell.edu/courses/cs6120/2022sp/schedule/
 
 UCSC CSE211 Graduate Compiler Design https://sorensenucsc.github.io/CSE211-fa2021/schedule.html
+
+UM Boston CS450 Structure of Higher Level Languages http://cogumbreiro.github.io/teaching/cs450/s21/
 
 UMD CMSC430 Design and Implementation of Programming Languages https://www.cs.umd.edu/class/fall2021/cmsc430/Schedule.html
 
