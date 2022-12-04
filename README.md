@@ -334,6 +334,10 @@ UIowa CS5810 Formal Methods in Software Engineering https://homepage.cs.uiowa.ed
 
 Alexandru Ioan Cuza University Formal Methods in Software Engineering https://sites.google.com/view/fii-fmse/2021-2022/lectures
 
+UNSW COMP6721 (In-)Formal Methods http://www.cse.unsw.edu.au/~cs6721/2022T2/Web/index.html
+
+Chalmers Software Engineering using Formal Methods http://www.cse.chalmers.se/edu/year/2016/course/TDA293/schedule.html
+
 University Koblenz Formal Specification and Verification https://userpages.uni-koblenz.de/~sofronie/lecture-formal-specif-verif-ws-2021/slides/
 
 MPRI 2-4 Functional Programming and Type Systems https://gitlab.inria.fr/fpottier/mpri-2.4-public
