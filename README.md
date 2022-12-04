@@ -309,6 +309,12 @@ Stanford CS343D Domain-Specific Programming Models and Compilers https://cs343d.
 
 Stanford CS243 Program Analysis and Optimization https://suif.stanford.edu/~courses/cs243/
 
+Freiburg Program Analysis & Software Testing https://swt.informatik.uni-freiburg.de/teaching/SS2017/ProgramAnalysisSoftwareTesting
+
+Freiburg Program Verification https://swt.informatik.uni-freiburg.de/teaching/SS2019/program-verification
+
+Freiburg Decision Procedures https://swt.informatik.uni-freiburg.de/teaching/WS2019-20/DecisionProcedures/Slides
+
 CMU 15-316 Software Foundations of Security & Privacy https://15316-cmu.github.io/2021/schedule.html
 
 CMU 15-414 Bug Catching: Automated Program Verification http://www.cs.cmu.edu/~15414/s22/schedule.html
@@ -369,6 +375,8 @@ MIT 6.172 Performance Engineering of Software Systems https://ocw.mit.edu/course
 ETH Seminar Hands-on Acceleration on Heterogeneous Computing Systems https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=heterogeneous_systems
 
 ETH 252-0029-00L Parallel Programming https://spcl.inf.ethz.ch/Teaching/2020-pp/
+
+NUS YSC4231 Parallel, Concurrent and Distributed Programming https://ilyasergey.net/YSC4231/index.html
 
 Stanford CS149 Parallel Computing https://gfxcourses.stanford.edu/cs149/fall21
 
