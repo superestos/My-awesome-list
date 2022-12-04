@@ -340,6 +340,8 @@ UIowa CS5810 Formal Methods in Software Engineering https://homepage.cs.uiowa.ed
 
 Alexandru Ioan Cuza University Formal Methods in Software Engineering https://sites.google.com/view/fii-fmse/2021-2022/lectures
 
+UNSW COMP2111 System Modelling and Design http://www.cse.unsw.edu.au/~cs2111/22T1/Lectures.html
+
 UNSW COMP6721 (In-)Formal Methods http://www.cse.unsw.edu.au/~cs6721/2022T2/Web/index.html
 
 Chalmers Software Engineering using Formal Methods http://www.cse.chalmers.se/edu/year/2016/course/TDA293/schedule.html
