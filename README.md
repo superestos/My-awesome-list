@@ -102,6 +102,8 @@ UIUC CS423 Operating System Design https://courses.grainger.illinois.edu/cs423/s
 
 JHU CS318 Principles of Operating Systems https://www.cs.jhu.edu/~huang/cs318/fall21/schedule.html
 
+HMC CS134 Operating Systems https://www.cs.hmc.edu/~rhodes/courses/cs134/fa20/schedule.html
+
 William & Mary CSCI333 Storage Systems http://www.cs.williams.edu/~jannen/teaching/s21/cs333/schedule.html
 
 Stanford CS111 Operating Systems Principles https://web.stanford.edu/~ouster/cs111-spring21/
