@@ -454,6 +454,8 @@ UCLA CS130 Software Engineering https://www.cs130.org/lectures/
 
 Tufts COMP121 Software Engineering https://www.cs.tufts.edu/comp/121/
 
+University of Gothenburg DIT635 Software Quality and Testing https://greg4cr.github.io/courses/spring22dit635/
+
 UCSD CSE210 Principles of Software Engineering https://sites.google.com/eng.ucsd.edu/cse-210-fall-2021/home/contact
 
 UMich EECS481 Software Engineering https://web.eecs.umich.edu/~weimerw/481/lectures.html
