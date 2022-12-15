@@ -164,6 +164,8 @@ WUSTL CSE522S Advanced Operating Systems https://classes.engineering.wustl.edu/c
 
 JHU CS718 Advanced Operating Systems https://www.cs.jhu.edu/~huang/cs718/spring20/syllabus.html
 
+IIT CS59503 OS and Runtime System Design for Supercomputing https://www.hale-legacy.com/class/cs59503/f16/
+
 UMass Amherst Systems https://emeryberger.com/teaching/grad-systems/
 
 Harvard CS261 Research Topics in Operating Systems https://read.seas.harvard.edu/cs261/2021/
