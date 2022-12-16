@@ -208,6 +208,10 @@ CMU 15-440 Distributed Systems https://www.synergylabs.org/courses/15-440/syllab
 
 CMU 15-719 Advanced Cloud Computing https://www.cs.cmu.edu/~15719/readinglist.html
 
+Brown CSCI2950u Cloud 3.0 Infrastructure https://cs.brown.edu/courses/csci2950-u/s18/schedule.html
+
+Utah CS6450 Distributed Systems http://www.cs.utah.edu/~stutsman/cs6450/calendar/
+
 Cornell CS5414 Distributed Computing Principles https://www.cs.cornell.edu/courses/cs5414/2020fa/
 
 Cornell CS5412 Topics in Cloud Computing https://www.cs.cornell.edu/courses/cs5412/2022sp/Syllabus.html
