@@ -352,7 +352,11 @@ Purdue CS560 Reasoning About Programs https://www.cs.purdue.edu/homes/roopsha/cs
 
 UCSD CSE291 Program Synthesis https://github.com/nadia-polikarpova/cse291-program-synthesis
 
+UCSB CS267 Automated Verification https://sites.cs.ucsb.edu/~bultan/courses/267/lectures/lectures.html
+
 UIowa CS5810 Formal Methods in Software Engineering https://homepage.cs.uiowa.edu/~tinelli/classes/181/Fall21/lectures.shtml
+
+IIT CS5030 Automated Program Verification https://kartiknagar.github.io/courses/apv/lectures/
 
 Alexandru Ioan Cuza University Formal Methods in Software Engineering https://sites.google.com/view/fii-fmse/2021-2022/lectures
 
@@ -461,6 +465,8 @@ Tufts COMP121 Software Engineering https://www.cs.tufts.edu/comp/121/
 University of Gothenburg DIT635 Software Quality and Testing https://greg4cr.github.io/courses/spring22dit635/
 
 UCSD CSE210 Principles of Software Engineering https://sites.google.com/eng.ucsd.edu/cse-210-fall-2021/home/contact
+
+UCSB CS272 Software Engineering https://sites.cs.ucsb.edu/~bultan/courses/272/
 
 UMich EECS481 Software Engineering https://web.eecs.umich.edu/~weimerw/481/lectures.html
 
