@@ -230,6 +230,8 @@ VU Storage Systems https://animeshtrivedi.github.io/course-stosys/
 
 VU Advanced Network Programming https://animeshtrivedi.github.io/course-anp/
 
+VU Advanced Computer Networks https://linwang.info/courses/acn21/
+
 Berkeley CS294-168 Machine Learning Systems https://ucbrise.github.io/cs294-ai-sys-sp22/
 
 CMU 10-414 Deep Learning Systems https://dlsyscourse.org/lectures/
@@ -300,6 +302,8 @@ CMU 15-814 Types and Programming Languages http://www.cs.cmu.edu/~fp/courses/158
 
 CMU 17-355 Program Analysis http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/ 
 https://cmu-program-analysis.github.io/2021/index.html
+
+CMU 15-819 Foundations of Quantitative Program Analysis https://www.cs.cmu.edu/~janh/courses/ra19/schedule/
 
 Tufts COMP150 Program Analysis, Verification, and Synthesis https://www.cs.tufts.edu/comp/150AVS
 
