@@ -358,6 +358,8 @@ UCSD CSE291 Program Synthesis https://github.com/nadia-polikarpova/cse291-progra
 
 UCSB CS267 Automated Verification https://sites.cs.ucsb.edu/~bultan/courses/267/lectures/lectures.html
 
+UIowa CS4350 Logic in Computer Science https://homepage.cs.uiowa.edu/~tinelli/classes/4350/Spring22/lectures.shtml
+
 UIowa CS5810 Formal Methods in Software Engineering https://homepage.cs.uiowa.edu/~tinelli/classes/181/Fall21/lectures.shtml
 
 IIT CS5030 Automated Program Verification https://kartiknagar.github.io/courses/apv/lectures/
@@ -401,6 +403,8 @@ UW AMATH483 High-Performance Scientific Computing https://amath583.github.io/sp2
 UTeaxs CS378H Concurrency Honors https://www.cs.utexas.edu/~rossbach/cs378h-s21/schedule.html
 
 UCR CS214 Parallel Algorithms https://www.cs.ucr.edu/~yihans/teaching/214/W22//schedule/index.html
+
+Tel Aviv Advanced Topics in Multi-Core Architecture and Software Systems https://www.cs.tau.ac.il/~mad/mass/schedule.html
 
 Brown CS1760 Multiprocessor Synchronization http://cs.brown.edu/courses/cs176/lectures.shtml
 
