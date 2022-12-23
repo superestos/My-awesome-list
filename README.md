@@ -30,6 +30,8 @@ Standford CS357 Advanced Topics in Formal Methods https://web.stanford.edu/class
 
 TUM Logic https://www21.in.tum.de/teaching/logic/SS22/index.html
 
+Saarland Introduction to Computational Logic https://cms.sic.saarland/icl_22/
+
 CMU 15-455 Undergraduate Complexity Theory http://www.cs.cmu.edu/~15455/table.html
 
 Stanford CS166 Data Structures http://web.stanford.edu/class/cs166/
