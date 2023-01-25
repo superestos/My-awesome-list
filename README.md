@@ -331,6 +331,8 @@ UIUC CS476 Program Verification https://courses.grainger.illinois.edu/CS476/sp20
 
 UIUC CS477 Formal Software Development Methods http://misailo.web.engr.illinois.edu/courses/477-fa21/
 
+UIUC CS526 Advanced Compiler Construction https://www.charithm.web.illinois.edu/cs526/sp2022/
+
 Cornell CS6114 Network Programming Languages https://cornell-pl.github.io/cs6114/schedule/
 
 Stanford CS343D Domain-Specific Programming Models and Compilers https://cs343d.github.io/
