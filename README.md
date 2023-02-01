@@ -487,6 +487,8 @@ https://dijkstra.eecs.umich.edu/kleach/eecs485/su20/
 
 MIT weblab https://weblab.mit.edu/schedule/
 
+Buffalo CSE312 Web Applications https://cse312.com/
+
 Stanford CS142: Web Applications https://web.stanford.edu/class/cs142/lectures.html
 
 Berkeley Linux System Administration https://decal.ocf.berkeley.edu/
@@ -598,6 +600,9 @@ http://www.saasbook.info/videos
 
 Computer Networks: A Systems Approach
 https://book.systemsapproach.org/index.html
+
+Algorithms for Modern Hardware
+https://en.algorithmica.org/hpc/
 
 ## Talks
 
