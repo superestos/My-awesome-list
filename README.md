@@ -466,6 +466,8 @@ PSU CMPSC447 Software Security https://www.cse.psu.edu/~trj1/cmpsc447-s22/schedu
 
 MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 
+Brown CS0320 Introduction to Software Engineering https://cs0320.github.io/
+
 CMU 17-214 Principles of Software Construction https://www.cs.cmu.edu/~charlie/courses/17-214/2021-spring/
 
 CMU 17-313 Foundations of Software Engineering https://cmu-313.github.io//calendar/
