@@ -505,6 +505,10 @@ JHU CS624 Reliable Software Systems https://www.cs.jhu.edu/~huang/cs624/spring22
 
 Brown CSCI2952-F Distributed Systems at Scale: Microservices Management http://cs.brown.edu/courses/csci2952-f/lectures.html
 
+The Debugging Book https://www.debuggingbook.org
+
+The Fuzzing Book https://www.fuzzingbook.org/
+
 ### AI, Graphics & Applications
 
 UChicago CS11111 Creative Coding https://www.classes.cs.uchicago.edu/archive/2022/winter/11111-1/schedule.html
