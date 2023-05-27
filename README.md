@@ -244,6 +244,8 @@ UCSD CSE291 Virtualization https://cseweb.ucsd.edu/~yiying/cse291-winter22/readi
 
 UCSD CSE291H Modern Data Center Systems https://cseweb.ucsd.edu/~yiying/cse291h-fall19/reading/
 
+IITB CS695 Virtualization and Cloud Computing https://www.cse.iitb.ac.in/~mythili/virtcc/
+
 ### Programming Languages
 
 CMU 15-122 Principles of Imperative Computation https://www.cs.cmu.edu/~15122/schedule.shtml
@@ -295,6 +297,7 @@ Rochester CSC255 Software Analysis and Improvement https://cs.rochester.edu/~sre
 UMich EECS390 Programming Paradigms https://eecs390.org/
 
 UMich EECS483 Compiler Construction https://dijkstra.eecs.umich.edu/eecs483/lectures.php
+http://maxsnew.com/teaching/eecs-483-fa22/
 
 UMich EECS590 Advanced Programming Languages https://web.eecs.umich.edu/~weimerw/590/lectures.html
 
@@ -463,6 +466,8 @@ UCSD CSE127 Intro to Computer Security https://cseweb.ucsd.edu/~dstefan/cse127-f
 UMich EECS388 Introduction to Computer Security https://eecs388.org/assignments.html
 
 PSU CMPSC447 Software Security https://www.cse.psu.edu/~trj1/cmpsc447-s22/schedule.html
+
+WCUPA CSC472 Software Security https://www.cs.wcupa.edu/schen/ss2022/
 
 MIT 6.031 Software Construction https://web.mit.edu/6.031/www/sp21/
 
