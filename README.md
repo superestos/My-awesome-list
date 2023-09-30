@@ -120,7 +120,7 @@ Harvard CS165 Data Systems http://daslab.seas.harvard.edu/classes/cs165/
 
 Harvard CS265 Big Data Systems http://daslab.seas.harvard.edu/classes/cs265/
 
-UPenn CIS545 Big Data Analytics https://sites.google.com/seas.upenn.edu/cis545
+UPenn CIS545 Big Data Analytics https://sites.google.com/seas.upenn.edu/cis545-f20
 
 UCSD DSC102 Systems for Scalable Analytics https://cseweb.ucsd.edu/~arunkk/dsc102_winter22/schedule.html
 
